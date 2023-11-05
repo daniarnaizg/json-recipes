@@ -1,0 +1,63 @@
+{
+  "recipe": {
+    "title": "Crockpot Carnitas",
+    "description": "Succulent and juicy pork carnitas cooked slowly in a crockpot for maximum flavor.",
+    "servings": 6,
+    "prepTime": "15 minutes",
+    "cookTime": "8 hours",
+    "totalTime": "8 hours 15 minutes",
+    "ingredients": [
+      {
+        "name": "Pork shoulder",
+        "quantity": 4,
+        "measurementUnit": "pounds"
+      },
+      {
+        "name": "Orange juice",
+        "quantity": 0.75,
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "Lime juice",
+        "quantity": 0.25,
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "Garlic, minced",
+        "quantity": 4,
+        "measurementUnit": "cloves"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 1,
+        "measurementUnit": "tablespoon"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": 1,
+        "measurementUnit": "tablespoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 2,
+        "measurementUnit": "teaspoons"
+      },
+      {
+        "name": "Ground black pepper",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
+      }
+    ],
+    "equipment": "Crockpot",
+    "instructions": [
+      "Trim excess fat off the pork shoulder and cut into large chunks.",
+      "Place pork chunks into the crockpot.",
+      "In a bowl, combine orange juice, lime juice, minced garlic, cumin, oregano, salt, and black pepper.",
+      "Pour the mixture over the pork in the crockpot.",
+      "Cover and cook on low for 8 hours or until the pork is tender.",
+      "Shred the pork with two forks and mix it with the juices in the crockpot.",
+      "Serve the carnitas on warm tortillas with your choice of toppings."
+    ],
+    "notes": "Optional: For crispier carnitas, spread the shredded pork on a baking sheet and broil for a few minutes until the edges are browned and crispy."
+  }
+}
