@@ -1,63 +1,135 @@
 [
-    {
-        "title": "Crockpot Carnitas",
-        "description": "Succulent and juicy pork carnitas cooked slowly in a crockpot for maximum flavor.",
-        "servings": 6,
-        "prepTime": "15 minutes",
-        "cookTime": "8 hours",
-        "totalTime": "8 hours 15 minutes",
-        "ingredients": [
-            {
-                "name": "Pork shoulder",
-                "quantity": 4,
-                "measurementUnit": "pounds"
-            },
-            {
-                "name": "Orange juice",
-                "quantity": 0.75,
-                "measurementUnit": "cup"
-            },
-            {
-                "name": "Lime juice",
-                "quantity": 0.25,
-                "measurementUnit": "cup"
-            },
-            {
-                "name": "Garlic, minced",
-                "quantity": 4,
-                "measurementUnit": "cloves"
-            },
-            {
-                "name": "Ground cumin",
-                "quantity": 1,
-                "measurementUnit": "tablespoon"
-            },
-            {
-                "name": "Dried oregano",
-                "quantity": 1,
-                "measurementUnit": "tablespoon"
-            },
-            {
-                "name": "Salt",
-                "quantity": 2,
-                "measurementUnit": "teaspoons"
-            },
-            {
-                "name": "Ground black pepper",
-                "quantity": 1,
-                "measurementUnit": "teaspoon"
-            }
-        ],
-        "equipment": "Crockpot",
-        "instructions": [
-            "Trim excess fat off the pork shoulder and cut into large chunks.",
-            "Place pork chunks into the crockpot.",
-            "In a bowl, combine orange juice, lime juice, minced garlic, cumin, oregano, salt, and black pepper.",
-            "Pour the mixture over the pork in the crockpot.",
-            "Cover and cook on low for 8 hours or until the pork is tender.",
-            "Shred the pork with two forks and mix it with the juices in the crockpot.",
-            "Serve the carnitas on warm tortillas with your choice of toppings."
-        ],
-        "notes": "Optional: For crispier carnitas, spread the shredded pork on a baking sheet and broil for a few minutes until the edges are browned and crispy."
-    }
+  {
+    "title": "Crockpot Carnitas",
+    "description": "Tender pork shoulder cooked slowly in a crockpot, infused with citrus and spices for authentic Mexican flavor.",
+    "servings": 6,
+    "prepTime": "15 minutes",
+    "cookTime": "8 hours",
+    "totalTime": "8 hours 15 minutes",
+    "ingredients": [
+      {
+        "name": "Pork shoulder",
+        "quantity": 4,
+        "measurementUnit": "pounds"
+      },
+      {
+        "name": "Orange juice",
+        "quantity": 0.75,
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "Lime juice",
+        "quantity": 0.25,
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "measurementUnit": "cloves"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 1,
+        "measurementUnit": "tablespoon"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": 1,
+        "measurementUnit": "tablespoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 2,
+        "measurementUnit": "teaspoons"
+      },
+      {
+        "name": "Ground black pepper",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
+      }
+    ],
+    "equipment": "Crockpot",
+    "instructions": [
+      "Trim excess fat from pork shoulder and cut into chunks.",
+      "Place pork in crockpot.",
+      "Combine orange juice, lime juice, garlic, cumin, oregano, salt, and pepper in a bowl.",
+      "Pour mixture over pork.",
+      "Cook on low for 8 hours.",
+      "Shred pork with forks and stir into juices.",
+      "Serve on tortillas with desired toppings."
+    ],
+    "notes": "For a crisp finish, broil shredded pork briefly before serving.",
+    "tags": ["Main", "SlowCooker", "HighProtein", "Comfort"]
+  },
+  {
+    "title": "Slow Cooker Beef Stew",
+    "description": "Hearty beef stew cooked to perfection in a slow cooker, with tender vegetables and a rich, savory broth.",
+    "servings": 8,
+    "prepTime": "20 minutes",
+    "cookTime": "10 hours",
+    "totalTime": "10 hours 20 minutes",
+    "ingredients": [
+      {
+        "name": "Beef chuck",
+        "quantity": 3,
+        "measurementUnit": "pounds"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 4,
+        "measurementUnit": "large"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 4,
+        "measurementUnit": "large"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "measurementUnit": "large"
+      },
+      {
+        "name": "Celery stalks",
+        "quantity": 4,
+        "measurementUnit": "pieces"
+      },
+      {
+        "name": "Beef broth",
+        "quantity": 4,
+        "measurementUnit": "cups"
+      },
+      {
+        "name": "Tomato paste",
+        "quantity": 2,
+        "measurementUnit": "tablespoons"
+      },
+      {
+        "name": "Worcestershire sauce",
+        "quantity": 1,
+        "measurementUnit": "tablespoon"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
+      },
+      {
+        "name": "Pepper",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
+      }
+    ],
+    "equipment": "Crockpot",
+    "instructions": [
+      "Cut beef into cubes and season with salt and pepper.",
+      "Place beef in crockpot.",
+      "Chop potatoes, carrots, onion, and celery; add to crockpot.",
+      "Mix beef broth, tomato paste, and Worcestershire sauce; pour over ingredients in crockpot.",
+      "Cook on low for 10 hours.",
+      "Adjust seasoning if needed and serve."
+    ],
+    "notes": "Thicken stew with a flour or cornstarch slurry if desired.",
+    "tags": ["Main", "SlowCooker", "Comfort", "Hearty"]
+  }
 ]
