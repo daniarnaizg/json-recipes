@@ -1,106 +1,149 @@
 [
   {
-    "title": "Crockpot Carnitas",
-    "description": "Tender pork shoulder cooked slowly in a crockpot, infused with citrus and spices for authentic Mexican flavor.",
-    "servings": 6,
+    "title": "Slow Cooker Carnitas",
+    "description": "Tender and flavorful pork carnitas made effortlessly in a slow cooker.",
+    "servings": 8,
     "prepTime": "15 minutes",
     "cookTime": "8 hours",
     "totalTime": "8 hours 15 minutes",
     "ingredients": [
       {
-        "name": "Pork shoulder",
-        "quantity": 4,
-        "measurementUnit": "pounds"
-      },
-      {
-        "name": "Orange juice",
-        "quantity": 0.75,
-        "measurementUnit": "cup"
-      },
-      {
-        "name": "Lime juice",
-        "quantity": 0.25,
-        "measurementUnit": "cup"
-      },
-      {
-        "name": "Garlic",
-        "quantity": 4,
-        "measurementUnit": "cloves"
-      },
-      {
-        "name": "Ground cumin",
-        "quantity": 1,
-        "measurementUnit": "tablespoon"
-      },
-      {
-        "name": "Dried oregano",
-        "quantity": 1,
-        "measurementUnit": "tablespoon"
-      },
-      {
-        "name": "Salt",
-        "quantity": 2,
-        "measurementUnit": "teaspoons"
-      },
-      {
-        "name": "Ground black pepper",
-        "quantity": 1,
-        "measurementUnit": "teaspoon"
-      }
-    ],
-    "equipment": "Crockpot",
-    "instructions": [
-      "Trim excess fat from pork shoulder and cut into chunks.",
-      "Place pork in crockpot.",
-      "Combine orange juice, lime juice, garlic, cumin, oregano, salt, and pepper in a bowl.",
-      "Pour mixture over pork.",
-      "Cook on low for 8 hours.",
-      "Shred pork with forks and stir into juices.",
-      "Serve on tortillas with desired toppings."
-    ],
-    "notes": "For a crisp finish, broil shredded pork briefly before serving.",
-    "tags": ["Main", "SlowCooker", "HighProtein", "Comfort"]
-  },
-  {
-    "title": "Slow Cooker Beef Stew",
-    "description": "Hearty beef stew cooked to perfection in a slow cooker, with tender vegetables and a rich, savory broth.",
-    "servings": 8,
-    "prepTime": "20 minutes",
-    "cookTime": "10 hours",
-    "totalTime": "10 hours 20 minutes",
-    "ingredients": [
-      {
-        "name": "Beef chuck",
+        "name": "pork shoulder",
         "quantity": 3,
         "measurementUnit": "pounds"
       },
       {
-        "name": "Potatoes",
-        "quantity": 4,
-        "measurementUnit": "large"
+        "name": "ground cumin",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
       },
       {
-        "name": "Carrots",
-        "quantity": 4,
-        "measurementUnit": "large"
+        "name": "chili powder",
+        "quantity": 1,
+        "measurementUnit": "teaspoon"
       },
       {
-        "name": "Onion",
+        "name": "garlic, minced",
+        "quantity": 4,
+        "measurementUnit": "cloves"
+      },
+      {
+        "name": "onion, chopped",
+        "quantity": 1,
+        "measurementUnit": "medium"
+      },
+      {
+        "name": "orange, juiced",
         "quantity": 1,
         "measurementUnit": "large"
+      }
+    ],
+    "equipment": "Slow cooker",
+    "instructions": [
+      "Trim excess fat off the pork shoulder and cut into large chunks.",
+      "Place pork into slow cooker and season with cumin, chili powder, salt, and pepper.",
+      "Add minced garlic, chopped onion, and orange juice over the pork.",
+      "Cover and cook on low for 8 hours or until meat is tender and falls apart easily.",
+      "Shred the pork with two forks and serve as desired."
+    ],
+    "notes": "Carnitas can be broiled after cooking for a crispier texture.",
+    "tags": ["High Protein", "Gluten Free", "Dairy Free", "Low Carb", "Make Ahead", "Freezer Friendly", "Meal Prep", "Main", "Slow Cooker"]
+  },
+  {
+    "title": "Slow Cooker Onion Soup",
+    "description": "A rich and savory slow-cooked onion soup, perfect for a comforting meal.",
+    "servings": 6,
+    "prepTime": "15 minutes",
+    "cookTime": "6 hours",
+    "totalTime": "6 hours 15 minutes",
+    "ingredients": [
+      {
+        "name": "yellow onions, sliced",
+        "quantity": 6,
+        "measurementUnit": "large"
       },
       {
-        "name": "Celery stalks",
+        "name": "unsalted butter",
         "quantity": 4,
-        "measurementUnit": "pieces"
+        "measurementUnit": "tablespoons"
       },
       {
-        "name": "Beef broth",
+        "name": "beef broth",
+        "quantity": 8,
+        "measurementUnit": "cups"
+      },
+      {
+        "name": "dry white wine",
+        "quantity": 1,
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "thyme sprigs",
+        "quantity": 2,
+        "measurementUnit": "each"
+      },
+      {
+        "name": "bay leaf",
+        "quantity": 1,
+        "measurementUnit": "each"
+      },
+      {
+        "name": "baguette slices",
+        "quantity": 6,
+        "measurementUnit": "slices"
+      },
+      {
+        "name": "Gruyère cheese, shredded",
+        "quantity": 1,
+        "measurementUnit": "cup"
+      }
+    ],
+    "equipment": "Slow cooker",
+    "instructions": [
+      "Place sliced onions and butter into the slow cooker.",
+      "Cover and cook on high for 1 hour until onions start to soften.",
+      "Add beef broth, white wine, thyme, and bay leaf to the slow cooker.",
+      "Cook on low for 5 hours.",
+      "Serve hot with toasted baguette slices topped with Gruyère cheese."
+    ],
+    "notes": "For a non-alcoholic version, substitute wine with additional beef broth.",
+    "tags": ["Comfort", "Gluten Free", "Make Ahead", "Vegetarian", "Soup", "Slow Cooker"]
+  },
+  {
+    "title": "Slow Cooker Beef Stew",
+    "description": "Hearty and delicious beef stew slow-cooked to perfection.",
+    "servings": 6,
+    "prepTime": "20 minutes",
+    "cookTime": "8 hours",
+    "totalTime": "8 hours 20 minutes",
+    "ingredients": [
+      {
+        "name": "beef chuck",
+        "quantity": 2,
+        "measurementUnit": "pounds"
+      },
+      {
+        "name": "carrots, chopped",
+        "quantity": 3,
+        "measurementUnit": "large"
+      },
+      {
+        "name": "potatoes, cubed",
+        "quantity": 4,
+        "measurementUnit": "medium"
+      },
+      {
+        "name": "celery stalks, chopped",
+        "quantity": 2,
+        "measurementUnit": "stalks"
+      },
+      {
+        "name": "beef broth",
         "quantity": 4,
         "measurementUnit": "cups"
       },
       {
-        "name": "Tomato paste",
+        "name": "tomato paste",
         "quantity": 2,
         "measurementUnit": "tablespoons"
       },
@@ -110,26 +153,30 @@
         "measurementUnit": "tablespoon"
       },
       {
-        "name": "Salt",
-        "quantity": 1,
-        "measurementUnit": "teaspoon"
+        "name": "garlic, minced",
+        "quantity": 3,
+        "measurementUnit": "cloves"
       },
       {
-        "name": "Pepper",
+        "name": "bay leaves",
+        "quantity": 2,
+        "measurementUnit": "leaves"
+      },
+      {
+        "name": "all-purpose flour",
         "quantity": 1,
-        "measurementUnit": "teaspoon"
+        "measurementUnit": "cup"
       }
     ],
-    "equipment": "Crockpot",
+    "equipment": "Slow cooker",
     "instructions": [
-      "Cut beef into cubes and season with salt and pepper.",
-      "Place beef in crockpot.",
-      "Chop potatoes, carrots, onion, and celery; add to crockpot.",
-      "Mix beef broth, tomato paste, and Worcestershire sauce; pour over ingredients in crockpot.",
-      "Cook on low for 10 hours.",
-      "Adjust seasoning if needed and serve."
+      "Season beef with salt and pepper and coat in flour.",
+      "Place the beef, carrots, potatoes, celery, and garlic into the slow cooker.",
+      "Pour beef broth over the ingredients, add tomato paste, Worcestershire sauce, and bay leaves.",
+      "Cook on low for 8 hours until beef is tender.",
+      "Remove bay leaves before serving."
     ],
-    "notes": "Thicken stew with a flour or cornstarch slurry if desired.",
-    "tags": ["Main", "SlowCooker", "Comfort", "Hearty"]
+    "notes": "Thicken stew with a cornstarch slurry if preferred.",
+    "tags": ["Hearty", "Gluten Free", "Dairy Free", "Low Fat", "High Protein", "Comfort", "Main", "Slow Cooker"]
   }
 ]
