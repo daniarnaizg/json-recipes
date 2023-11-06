@@ -2,6 +2,7 @@
   {
     "title": "Slow Cooker Carnitas",
     "description": "Tender and flavorful pork carnitas made effortlessly in a slow cooker.",
+    "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/beef_stew.webp",
     "servings": 8,
     "prepTime": "15 minutes",
     "cookTime": "8 hours",
@@ -52,6 +53,7 @@
   {
     "title": "Slow Cooker Onion Soup",
     "description": "A rich and savory slow-cooked onion soup, perfect for a comforting meal.",
+    "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/beef_stew.webp",
     "servings": 6,
     "prepTime": "15 minutes",
     "cookTime": "6 hours",
