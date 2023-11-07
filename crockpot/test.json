@@ -1,5 +1,6 @@
 [
   {
+    "id": "carnitas8153",
     "title": "Slow Cooker Carnitas",
     "description": "Tender and flavorful pork carnitas made effortlessly in a slow cooker.",
     "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/carnitas.webp",
@@ -51,6 +52,7 @@
     "tags": ["High Protein", "Gluten Free", "Dairy Free", "Low Carb", "Make Ahead", "Freezer Friendly", "Meal Prep", "Main", "Slow Cooker"]
   },
   {
+    "id": "onion6156",
     "title": "Slow Cooker Onion Soup",
     "description": "A rich and savory slow-cooked onion soup, perfect for a comforting meal.",
     "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/onion_soup.webp",
@@ -112,6 +114,7 @@
     "tags": ["Comfort", "Gluten Free", "Make Ahead", "Vegetarian", "Soup", "Slow Cooker"]
   },
   {
+    "id": "beef6202",
     "title": "Slow Cooker Beef Stew",
     "description": "Hearty and delicious beef stew slow-cooked to perfection.",
     "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/beef_stew.webp",
