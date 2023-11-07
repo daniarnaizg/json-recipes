@@ -1,188 +1,251 @@
 [
   {
-    "id": "carnitas8153",
-    "title": "Slow Cooker Carnitas",
-    "description": "Tender and flavorful pork carnitas made effortlessly in a slow cooker.",
-    "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/carnitas.webp",
+    "id": "carnitas4321",
+    "title": "Classic Slow Cooker Carnitas",
+    "description": "Tender and flavorful pork carnitas made easily in your slow cooker.",
     "servings": 8,
     "prepTime": "15 minutes",
     "cookTime": "8 hours",
     "totalTime": "8 hours 15 minutes",
+    "difficulty": "easy",
+    "calPerServing": 350,
     "ingredients": [
       {
         "name": "pork shoulder",
-        "quantity": 3,
+        "quantity": "3",
         "measurementUnit": "pounds"
       },
       {
-        "name": "ground cumin",
-        "quantity": 1,
-        "measurementUnit": "teaspoon"
+        "name": "orange juice",
+        "quantity": "3/4",
+        "measurementUnit": "cup"
       },
       {
-        "name": "chili powder",
-        "quantity": 1,
-        "measurementUnit": "teaspoon"
+        "name": "lime juice",
+        "quantity": "1/4",
+        "measurementUnit": "cup"
       },
       {
-        "name": "garlic, minced",
-        "quantity": 4,
+        "name": "garlic",
+        "quantity": "4",
         "measurementUnit": "cloves"
       },
       {
-        "name": "onion, chopped",
-        "quantity": 1,
-        "measurementUnit": "medium"
+        "name": "ground cumin",
+        "quantity": "1",
+        "measurementUnit": "teaspoon"
       },
       {
-        "name": "orange, juiced",
-        "quantity": 1,
-        "measurementUnit": "large"
+        "name": "dried oregano",
+        "quantity": "1",
+        "measurementUnit": "teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "2",
+        "measurementUnit": "teaspoons"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "1",
+        "measurementUnit": "teaspoon"
       }
     ],
-    "equipment": "Slow cooker",
+    "equipment": "Slow Cooker",
     "instructions": [
-      "Trim excess fat off the pork shoulder and cut into large chunks.",
-      "Place pork into slow cooker and season with cumin, chili powder, salt, and pepper.",
-      "Add minced garlic, chopped onion, and orange juice over the pork.",
-      "Cover and cook on low for 8 hours or until meat is tender and falls apart easily.",
-      "Shred the pork with two forks and serve as desired."
+      "Trim the pork shoulder of excess fat and cut into large chunks.",
+      "Combine orange juice, lime juice, garlic, cumin, oregano, salt, and pepper in the slow cooker.",
+      "Add pork to the slow cooker and toss to coat with the juice mixture.",
+      "Cover and cook on low for 8 hours or until pork is tender.",
+      "Shred the pork with two forks and serve with tortillas or rice."
     ],
-    "notes": "Carnitas can be broiled after cooking for a crispier texture.",
-    "tags": ["High Protein", "Gluten Free", "Dairy Free", "Low Carb", "Make Ahead", "Freezer Friendly", "Meal Prep", "Main", "Slow Cooker"]
+    "notes": "For a crispier finish, spread the shredded pork on a baking sheet and broil for a few minutes until edges are browned.",
+    "tags": [
+      "Comfort",
+      "Make Ahead",
+      "Freezer Friendly",
+      "Meal Prep",
+      "Low Carb",
+      "High Protein",
+      "Gluten Free",
+      "Dairy Free",
+      "Main",
+      "Slow Cooker"
+    ]
   },
   {
-    "id": "onion6156",
-    "title": "Slow Cooker Onion Soup",
-    "description": "A rich and savory slow-cooked onion soup, perfect for a comforting meal.",
-    "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/onion_soup.webp",
+    "id": "onionsoup7854",
+    "title": "Slow Cooker French Onion Soup",
+    "description": "A rich and comforting soup featuring caramelized onions and a beef broth base, topped with toasted bread and melted cheese.",
     "servings": 6,
-    "prepTime": "15 minutes",
+    "prepTime": "10 minutes",
     "cookTime": "6 hours",
-    "totalTime": "6 hours 15 minutes",
+    "totalTime": "6 hours 10 minutes",
+    "difficulty": "easy",
+    "calPerServing": 210,
     "ingredients": [
       {
-        "name": "yellow onions, sliced",
-        "quantity": 6,
+        "name": "yellow onions",
+        "quantity": "6",
         "measurementUnit": "large"
       },
       {
         "name": "unsalted butter",
-        "quantity": 4,
+        "quantity": "4",
         "measurementUnit": "tablespoons"
       },
       {
         "name": "beef broth",
-        "quantity": 8,
+        "quantity": "8",
         "measurementUnit": "cups"
       },
       {
         "name": "dry white wine",
-        "quantity": 1,
+        "quantity": "1/2",
         "measurementUnit": "cup"
       },
       {
         "name": "thyme sprigs",
-        "quantity": 2,
+        "quantity": "2",
         "measurementUnit": "each"
       },
       {
-        "name": "bay leaf",
-        "quantity": 1,
+        "name": "bay leaves",
+        "quantity": "2",
         "measurementUnit": "each"
       },
       {
-        "name": "baguette slices",
-        "quantity": 6,
-        "measurementUnit": "slices"
+        "name": "salt",
+        "quantity": "to taste",
+        "measurementUnit": "each"
       },
       {
-        "name": "Gruyère cheese, shredded",
-        "quantity": 1,
-        "measurementUnit": "cup"
+        "name": "black pepper",
+        "quantity": "to taste",
+        "measurementUnit": "each"
+      },
+      {
+        "name": "baguette",
+        "quantity": "1",
+        "measurementUnit": "each"
+      },
+      {
+        "name": "Gruyere cheese",
+        "quantity": "1/2",
+        "measurementUnit": "pound"
       }
     ],
-    "equipment": "Slow cooker",
+    "equipment": "Slow Cooker",
     "instructions": [
-      "Place sliced onions and butter into the slow cooker.",
-      "Cover and cook on high for 1 hour until onions start to soften.",
-      "Add beef broth, white wine, thyme, and bay leaf to the slow cooker.",
-      "Cook on low for 5 hours.",
-      "Serve hot with toasted baguette slices topped with Gruyère cheese."
+      "Slice the onions thinly and place them in the slow cooker with butter.",
+      "Cook on high for 4 hours or until onions are caramelized.",
+      "Add beef broth, white wine, thyme, bay leaves, salt, and pepper to the onions.",
+      "Cook on low for 2 hours.",
+      "Preheat broiler, ladle soup into oven-safe bowls, top with a slice of toasted baguette and Gruyere cheese.",
+      "Broil until cheese is bubbly and golden brown."
     ],
-    "notes": "For a non-alcoholic version, substitute wine with additional beef broth.",
-    "tags": ["Comfort", "Gluten Free", "Make Ahead", "Vegetarian", "Soup", "Slow Cooker"]
+    "notes": "For a non-alcoholic version, you can replace the wine with additional beef broth.",
+    "tags": [
+      "Comfort",
+      "Gourmet",
+      "Make Ahead",
+      "Freezer Friendly",
+      "Low Carb",
+      "Low Cal",
+      "Heart Healthy",
+      "Dinner",
+      "Slow Cooker",
+      "Soup"
+    ]
   },
   {
-    "id": "beef6202",
-    "title": "Slow Cooker Beef Stew",
-    "description": "Hearty and delicious beef stew slow-cooked to perfection.",
-    "image": "https://raw.githubusercontent.com/daniarnaizg/json-recipes/main/crockpot/images/beef_stew.webp",
+    "id": "beefstew9087",
+    "title": "Hearty Slow Cooker Beef Stew",
+    "description": "A rich stew with tender beef, potatoes, carrots, and peas, perfect for a cold day.",
     "servings": 6,
     "prepTime": "20 minutes",
     "cookTime": "8 hours",
     "totalTime": "8 hours 20 minutes",
+    "difficulty": "easy",
+    "calPerServing": 400,
     "ingredients": [
       {
         "name": "beef chuck",
-        "quantity": 2,
+        "quantity": "2",
         "measurementUnit": "pounds"
       },
       {
-        "name": "carrots, chopped",
-        "quantity": 3,
+        "name": "potatoes",
+        "quantity": "3",
         "measurementUnit": "large"
       },
       {
-        "name": "potatoes, cubed",
-        "quantity": 4,
-        "measurementUnit": "medium"
+        "name": "carrots",
+        "quantity": "4",
+        "measurementUnit": "large"
       },
       {
-        "name": "celery stalks, chopped",
-        "quantity": 2,
-        "measurementUnit": "stalks"
+        "name": "celery stalks",
+        "quantity": "3",
+        "measurementUnit": "each"
       },
       {
         "name": "beef broth",
-        "quantity": 4,
+        "quantity": "4",
         "measurementUnit": "cups"
       },
       {
         "name": "tomato paste",
-        "quantity": 2,
+        "quantity": "2",
         "measurementUnit": "tablespoons"
       },
       {
         "name": "Worcestershire sauce",
-        "quantity": 1,
+        "quantity": "1",
         "measurementUnit": "tablespoon"
       },
       {
-        "name": "garlic, minced",
-        "quantity": 3,
+        "name": "garlic",
+        "quantity": "3",
         "measurementUnit": "cloves"
       },
       {
-        "name": "bay leaves",
-        "quantity": 2,
-        "measurementUnit": "leaves"
+        "name": "salt",
+        "quantity": "to taste",
+        "measurementUnit": "each"
       },
       {
-        "name": "all-purpose flour",
-        "quantity": 1,
+        "name": "black pepper",
+        "quantity": "to taste",
+        "measurementUnit": "each"
+      },
+      {
+        "name": "frozen peas",
+        "quantity": "1",
         "measurementUnit": "cup"
       }
     ],
-    "equipment": "Slow cooker",
+    "equipment": "Slow Cooker",
     "instructions": [
-      "Season beef with salt and pepper and coat in flour.",
-      "Place the beef, carrots, potatoes, celery, and garlic into the slow cooker.",
-      "Pour beef broth over the ingredients, add tomato paste, Worcestershire sauce, and bay leaves.",
-      "Cook on low for 8 hours until beef is tender.",
-      "Remove bay leaves before serving."
+      "Cut beef into 1-inch cubes and brown in a skillet over medium-high heat.",
+      "Transfer beef to the slow cooker and add chopped potatoes, carrots, and celery.",
+      "Mix beef broth with tomato paste, Worcestershire sauce, minced garlic, salt, and pepper, then pour over the beef and vegetables.",
+      "Cook on low for 7-8 hours until beef is tender.",
+      "Add frozen peas during the last 30 minutes of cooking."
     ],
-    "notes": "Thicken stew with a cornstarch slurry if preferred.",
-    "tags": ["Hearty", "Gluten Free", "Dairy Free", "Low Fat", "High Protein", "Comfort", "Main", "Slow Cooker"]
+    "notes": "You can thicken the stew with a cornstarch slurry if desired.",
+    "tags": [
+      "Comfort",
+      "Hearty",
+      "Make Ahead",
+      "Freezer Friendly",
+      "Meal Prep",
+      "Low Carb",
+      "High Protein",
+      "Gluten Free",
+      "Dairy Free",
+      "Main",
+      "Slow Cooker"
+    ]
   }
 ]
