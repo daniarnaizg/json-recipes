@@ -1,251 +1,214 @@
 [
-  {
-    "id": "carnitas4321",
-    "title": "Classic Slow Cooker Carnitas",
-    "description": "Tender and flavorful pork carnitas made easily in your slow cooker.",
-    "servings": 8,
-    "prepTime": "15 minutes",
-    "cookTime": "8 hours",
-    "totalTime": "8 hours 15 minutes",
-    "difficulty": "easy",
-    "calPerServing": 350,
-    "ingredients": [
+ {
+  "id": "Pork1234",
+  "title": {
+    "en": "Slow Cooker Carnitas",
+    "es": "Carnitas de Cocción Lenta",
+    "fr": "Carnitas à la mijoteuse",
+    "de": "Slow Cooker Carnitas",
+    "pt": "Carnitas de Forno Lento"
+  },
+  "description": {
+    "en": "Delicious slow-cooked pork, perfect for tacos or burritos.",
+    "es": "Delicioso cerdo cocinado lentamente, perfecto para tacos o burritos.",
+    "fr": "Délicieux porc cuit lentement, parfait pour les tacos ou les burritos.",
+    "de": "Köstliches langsam gekochtes Schweinefleisch, perfekt für Tacos oder Burritos.",
+    "pt": "Delicioso porco cozido lentamente, perfeito para tacos ou burritos."
+  },
+  "image": "",
+  "servings": 6,
+  "prepTime": "15 minutes",
+  "cookTime": "6 hours",
+  "totalTime": "6 hours 15 minutes",
+  "difficulty": {
+    "en": "easy",
+    "es": "fácil",
+    "fr": "facile",
+    "de": "einfach",
+    "pt": "fácil"
+  },
+  "calPerServing": 350,
+  "ingredients": {
+    "en": [
       {
-        "name": "pork shoulder",
+        "name": "Pork Shoulder",
         "quantity": "3",
         "measurementUnit": "pounds"
       },
       {
-        "name": "orange juice",
-        "quantity": "3/4",
-        "measurementUnit": "cup"
-      },
-      {
-        "name": "lime juice",
-        "quantity": "1/4",
-        "measurementUnit": "cup"
-      },
-      {
-        "name": "garlic",
-        "quantity": "4",
-        "measurementUnit": "cloves"
-      },
-      {
-        "name": "ground cumin",
+        "name": "Orange",
         "quantity": "1",
-        "measurementUnit": "teaspoon"
+        "measurementUnit": "large, juiced"
       },
       {
-        "name": "dried oregano",
-        "quantity": "1",
-        "measurementUnit": "teaspoon"
-      },
-      {
-        "name": "salt",
+        "name": "Lime",
         "quantity": "2",
-        "measurementUnit": "teaspoons"
+        "measurementUnit": "juiced"
       },
       {
-        "name": "black pepper",
+        "name": "Garlic",
+        "quantity": "4",
+        "measurementUnit": "cloves, minced"
+      },
+      {
+        "name": "Cumin",
         "quantity": "1",
         "measurementUnit": "teaspoon"
       }
     ],
-    "equipment": "Slow Cooker",
-    "instructions": [
-      "Trim the pork shoulder of excess fat and cut into large chunks.",
-      "Combine orange juice, lime juice, garlic, cumin, oregano, salt, and pepper in the slow cooker.",
-      "Add pork to the slow cooker and toss to coat with the juice mixture.",
-      "Cover and cook on low for 8 hours or until pork is tender.",
-      "Shred the pork with two forks and serve with tortillas or rice."
+    "es": [
+      {
+        "name": "Paletilla de Cerdo",
+        "quantity": "3",
+        "measurementUnit": "libras"
+      },
+      {
+        "name": "Naranja",
+        "quantity": "1",
+        "measurementUnit": "grande, exprimida"
+      },
+      {
+        "name": "Limón",
+        "quantity": "2",
+        "measurementUnit": "exprimido"
+      },
+      {
+        "name": "Ajo",
+        "quantity": "4",
+        "measurementUnit": "dientes, picados"
+      },
+      {
+        "name": "Comino",
+        "quantity": "1",
+        "measurementUnit": "cucharadita"
+      }
     ],
-    "notes": "For a crispier finish, spread the shredded pork on a baking sheet and broil for a few minutes until edges are browned.",
-    "tags": [
-      "Comfort",
-      "Make Ahead",
-      "Freezer Friendly",
-      "Meal Prep",
-      "Low Carb",
-      "High Protein",
-      "Gluten Free",
-      "Dairy Free",
-      "Main",
-      "Slow Cooker"
+    "fr": [
+      {
+        "name": "Épaule de Porc",
+        "quantity": "3",
+        "measurementUnit": "livres"
+      },
+      {
+        "name": "Orange",
+        "quantity": "1",
+        "measurementUnit": "grosse, pressée"
+      },
+      {
+        "name": "Citron Vert",
+        "quantity": "2",
+        "measurementUnit": "pressés"
+      },
+      {
+        "name": "Ail",
+        "quantity": "4",
+        "measurementUnit": "gousses, hachées"
+      },
+      {
+        "name": "Cumin",
+        "quantity": "1",
+        "measurementUnit": "cuillère à café"
+      }
+    ],
+    "de": [
+      {
+        "name": "Schweineschulter",
+        "quantity": "3",
+        "measurementUnit": "Pfund"
+      },
+      {
+        "name": "Orange",
+        "quantity": "1",
+        "measurementUnit": "groß, gepresst"
+      },
+      {
+        "name": "Limette",
+        "quantity": "2",
+        "measurementUnit": "gepresst"
+      },
+      {
+        "name": "Knoblauch",
+        "quantity": "4",
+        "measurementUnit": "Zehen, gehackt"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "quantity": "1",
+        "measurementUnit": "Teelöffel"
+      }
+    ],
+    "pt": [
+      {
+        "name": "Paleta de Porco",
+        "quantity": "3",
+        "measurementUnit": "libras"
+      },
+      {
+        "name": "Laranja",
+        "quantity": "1",
+        "measurementUnit": "grande, espremida"
+      },
+      {
+        "name": "Limão",
+        "quantity": "2",
+        "measurementUnit": "espremido"
+      },
+      {
+        "name": "Alho",
+        "quantity": "4",
+        "measurementUnit": "dentes, picados"
+      },
+      {
+        "name": "Cominho",
+        "quantity": "1",
+        "measurementUnit": "colher de chá"
+      }
     ]
   },
-  {
-    "id": "onionsoup7854",
-    "title": "Slow Cooker French Onion Soup",
-    "description": "A rich and comforting soup featuring caramelized onions and a beef broth base, topped with toasted bread and melted cheese.",
-    "servings": 6,
-    "prepTime": "10 minutes",
-    "cookTime": "6 hours",
-    "totalTime": "6 hours 10 minutes",
-    "difficulty": "easy",
-    "calPerServing": 210,
-    "ingredients": [
-      {
-        "name": "yellow onions",
-        "quantity": "6",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "unsalted butter",
-        "quantity": "4",
-        "measurementUnit": "tablespoons"
-      },
-      {
-        "name": "beef broth",
-        "quantity": "8",
-        "measurementUnit": "cups"
-      },
-      {
-        "name": "dry white wine",
-        "quantity": "1/2",
-        "measurementUnit": "cup"
-      },
-      {
-        "name": "thyme sprigs",
-        "quantity": "2",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "bay leaves",
-        "quantity": "2",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "salt",
-        "quantity": "to taste",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "black pepper",
-        "quantity": "to taste",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "baguette",
-        "quantity": "1",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "Gruyere cheese",
-        "quantity": "1/2",
-        "measurementUnit": "pound"
-      }
+  "instructions": {
+    "en": [
+      "Step 1: Place pork in the slow cooker.",
+      "Step 2: Mix orange juice, lime juice, garlic, and cumin. Pour over the pork.",
+      "Step 3: Cook on low for 6 hours.",
+      "Step 4: Shred the pork using two forks."
     ],
-    "equipment": "Slow Cooker",
-    "instructions": [
-      "Slice the onions thinly and place them in the slow cooker with butter.",
-      "Cook on high for 4 hours or until onions are caramelized.",
-      "Add beef broth, white wine, thyme, bay leaves, salt, and pepper to the onions.",
-      "Cook on low for 2 hours.",
-      "Preheat broiler, ladle soup into oven-safe bowls, top with a slice of toasted baguette and Gruyere cheese.",
-      "Broil until cheese is bubbly and golden brown."
+    "es": [
+      "Paso 1: Coloca el cerdo en la olla de cocción lenta.",
+      "Paso 2: Mezcla el jugo de naranja, jugo de limón, ajo y comino. Vierte sobre el cerdo.",
+      "Paso 3: Cocina a fuego lento durante 6 horas.",
+      "Paso 4: Desmenuza el cerdo con dos tenedores."
     ],
-    "notes": "For a non-alcoholic version, you can replace the wine with additional beef broth.",
-    "tags": [
-      "Comfort",
-      "Gourmet",
-      "Make Ahead",
-      "Freezer Friendly",
-      "Low Carb",
-      "Low Cal",
-      "Heart Healthy",
-      "Dinner",
-      "Slow Cooker",
-      "Soup"
+    "fr": [
+      "Étape 1 : Placez le porc dans la mijoteuse.",
+      "Étape 2 : Mélangez le jus d'orange, le jus de citron vert, l'ail et le cumin. Versez sur le porc.",
+      "Étape 3 : Cuire à feu doux pendant 6 heures.",
+      "Étape 4 : Effilochez le porc à l'aide de deux fourchettes."
+    ],
+    "de": [
+      "Schritt 1: Das Schweinefleisch in den Slow Cooker geben.",
+      "Schritt 2: Orangensaft, Limettensaft, Knoblauch und Kreuzkümmel vermischen. Über das Schweinefleisch gießen.",
+      "Schritt 3: 6 Stunden langsam garen.",
+      "Schritt 4: Das Fleisch mit zwei Gabeln zerkleinern."
+    ],
+    "pt": [
+      "Passo 1: Coloque o porco na panela de cozimento lento.",
+      "Passo 2: Misture o suco de laranja, suco de limão, alho e cominho. Despeje sobre o porco.",
+      "Passo 3: Cozinhe em fogo baixo por 6 horas.",
+      "Passo 4: Desfie o porco usando dois garfos."
     ]
   },
-  {
-    "id": "beefstew9087",
-    "title": "Hearty Slow Cooker Beef Stew",
-    "description": "A rich stew with tender beef, potatoes, carrots, and peas, perfect for a cold day.",
-    "servings": 6,
-    "prepTime": "20 minutes",
-    "cookTime": "8 hours",
-    "totalTime": "8 hours 20 minutes",
-    "difficulty": "easy",
-    "calPerServing": 400,
-    "ingredients": [
-      {
-        "name": "beef chuck",
-        "quantity": "2",
-        "measurementUnit": "pounds"
-      },
-      {
-        "name": "potatoes",
-        "quantity": "3",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "carrots",
-        "quantity": "4",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "celery stalks",
-        "quantity": "3",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "beef broth",
-        "quantity": "4",
-        "measurementUnit": "cups"
-      },
-      {
-        "name": "tomato paste",
-        "quantity": "2",
-        "measurementUnit": "tablespoons"
-      },
-      {
-        "name": "Worcestershire sauce",
-        "quantity": "1",
-        "measurementUnit": "tablespoon"
-      },
-      {
-        "name": "garlic",
-        "quantity": "3",
-        "measurementUnit": "cloves"
-      },
-      {
-        "name": "salt",
-        "quantity": "to taste",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "black pepper",
-        "quantity": "to taste",
-        "measurementUnit": "each"
-      },
-      {
-        "name": "frozen peas",
-        "quantity": "1",
-        "measurementUnit": "cup"
-      }
-    ],
-    "equipment": "Slow Cooker",
-    "instructions": [
-      "Cut beef into 1-inch cubes and brown in a skillet over medium-high heat.",
-      "Transfer beef to the slow cooker and add chopped potatoes, carrots, and celery.",
-      "Mix beef broth with tomato paste, Worcestershire sauce, minced garlic, salt, and pepper, then pour over the beef and vegetables.",
-      "Cook on low for 7-8 hours until beef is tender.",
-      "Add frozen peas during the last 30 minutes of cooking."
-    ],
-    "notes": "You can thicken the stew with a cornstarch slurry if desired.",
-    "tags": [
-      "Comfort",
-      "Hearty",
-      "Make Ahead",
-      "Freezer Friendly",
-      "Meal Prep",
-      "Low Carb",
-      "High Protein",
-      "Gluten Free",
-      "Dairy Free",
-      "Main",
-      "Slow Cooker"
-    ]
-  }
+  "notes": "For crispier carnitas, broil the shredded pork in the oven for a few minutes after cooking.",
+  "tags": [
+    "Slow Cooker",
+    "Mexican",
+    "Pork",
+    "Dinner",
+    "Easy",
+    "Quick",
+    "Family Meal",
+    "Tacos",
+    "Burritos"
+  ]
+}
+
 ]
