@@ -3544,5 +3544,744 @@
           "Kid Friendly",
           "Comfort"
       ]
+  },
+  ,
+  {
+      "id": "creamymushroom1234",
+      "title": {
+          "en": "Creamy Mushroom Chicken",
+          "es": "Pollo cremoso con champiñones",
+          "fr": "Poulet crémeux aux champignons",
+          "de": "Cremiges Pilz-Hähnchen",
+          "pt": "Frango cremoso com cogumelos"
+      },
+      "description": {
+          "en": "Tender chicken with a rich and creamy mushroom sauce, slow-cooked for ultimate flavor.",
+          "es": "Pollo tierno con una salsa cremosa de champiñones, cocinado a fuego lento para un sabor máximo.",
+          "fr": "Poulet tendre avec une sauce crémeuse aux champignons, cuit lentement pour un goût ultime.",
+          "de": "Zartes Hähnchen in einer reichen, cremigen Pilzsoße, langsam gekocht für ultimativen Geschmack.",
+          "pt": "Frango macio com um molho rico e cremoso de cogumelos, cozido lentamente para um sabor definitivo."
+      },
+      "image": "",
+      "servings": 4,
+      "prepTime": {
+          "number": 20,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 300,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Chicken breasts",
+                  "quantity": "4",
+                  "measurementUnit": "pieces"
+              },
+              {
+                  "name": "Mushrooms",
+                  "quantity": "300",
+                  "measurementUnit": "grams"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "large"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "3",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Chicken broth",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Heavy cream",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Thyme",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Black pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Pechugas de pollo",
+                  "quantity": "4",
+                  "measurementUnit": "piezas"
+              },
+              {
+                  "name": "Champiñones",
+                  "quantity": "300",
+                  "measurementUnit": "gramos"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "grande"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "3",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Caldo de pollo",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Crema espesa",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Tomillo",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Blancs de poulet",
+                  "quantity": "4",
+                  "measurementUnit": "pièces"
+              },
+              {
+                  "name": "Champignons",
+                  "quantity": "300",
+                  "measurementUnit": "grammes"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "gros"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "3",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Bouillon de poulet",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Crème épaisse",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Thym",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Hähnchenbrust",
+                  "quantity": "4",
+                  "measurementUnit": "Stücke"
+              },
+              {
+                  "name": "Pilze",
+                  "quantity": "300",
+                  "measurementUnit": "Gramm"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "groß"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "3",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Hühnerbrühe",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Schlagsahne",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Thymian",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Peitos de frango",
+                  "quantity": "4",
+                  "measurementUnit": "pedaços"
+              },
+              {
+                  "name": "Cogumelos",
+                  "quantity": "300",
+                  "measurementUnit": "gramas"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "grande"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "3",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Caldo de galinha",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Creme de leite",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Tomilho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta do reino",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Step 1: Place chicken breasts at the bottom of the slow cooker.",
+              "Step 2: Add sliced mushrooms, diced onions, and minced garlic.",
+              "Step 3: Pour chicken broth over the ingredients.",
+              "Step 4: Season with thyme, salt, and black pepper.",
+              "Step 5: Cover and cook on low for 4 hours.",
+              "Step 6: After 4 hours, remove the chicken and set aside.",
+              "Step 7: Add heavy cream to the slow cooker, stir well.",
+              "Step 8: Return the chicken to the slow cooker and cook for an additional 30 minutes.",
+              "Step 9: Serve the creamy mushroom chicken over rice or pasta."
+          ],
+          "es": [
+              "Paso 1: Coloca las pechugas de pollo en el fondo de la olla de cocción lenta.",
+              "Paso 2: Agrega los champiñones en rodajas, cebolla picada y ajo picado.",
+              "Paso 3: Vierte el caldo de pollo sobre los ingredientes.",
+              "Paso 4: Sazona con tomillo, sal y pimienta negra.",
+              "Paso 5: Cubre y cocina a fuego lento durante 4 horas.",
+              "Paso 6: Después de 4 horas, retira el pollo y reserva.",
+              "Paso 7: Agrega la crema espesa a la olla de cocción lenta, mezcla bien.",
+              "Paso 8: Vuelve a colocar el pollo en la olla de cocción lenta y cocina durante 30 minutos adicionales.",
+              "Paso 9: Sirve el pollo cremoso con champiñones sobre arroz o pasta."
+          ],
+          "fr": [
+              "Étape 1 : Placez les blancs de poulet au fond de la mijoteuse.",
+              "Étape 2 : Ajoutez les champignons tranchés, les oignons en dés et l'ail haché.",
+              "Étape 3 : Versez le bouillon de poulet sur les ingrédients.",
+              "Étape 4 : Assaisonnez avec du thym, du sel et du poivre noir.",
+              "Étape 5 : Couvrez et cuisez à feu doux pendant 4 heures.",
+              "Étape 6 : Après 4 heures, retirez le poulet et réservez.",
+              "Étape 7 : Ajoutez la crème épaisse à la mijoteuse, mélangez bien.",
+              "Étape 8 : Replacez le poulet dans la mijoteuse et cuisez pendant 30 minutes supplémentaires.",
+              "Étape 9 : Servez le poulet crémeux aux champignons avec du riz ou des pâtes."
+          ],
+          "de": [
+              "Schritt 1: Lege die Hähnchenbrüste auf den Boden des Slow Cookers.",
+              "Schritt 2: Füge geschnittene Pilze, gewürfelte Zwiebeln und gehackten Knoblauch hinzu.",
+              "Schritt 3: Gieße Hühnerbrühe über die Zutaten.",
+              "Schritt 4: Würze mit Thymian, Salz und schwarzem Pfeffer.",
+              "Schritt 5: Abdecken und 4 Stunden lang auf niedriger Stufe kochen.",
+              "Schritt 6: Entferne nach 4 Stunden das Hähnchen und stelle es beiseite.",
+              "Schritt 7: Füge Sahne hinzu und rühre gut um.",
+              "Schritt 8: Lege das Hähnchen zurück in den Slow Cooker und koche weitere 30 Minuten.",
+              "Schritt 9: Serviere das cremige Pilz-Hähnchen über Reis oder Pasta."
+          ],
+          "pt": [
+              "Passo 1: Coloque os peitos de frango no fundo da panela elétrica.",
+              "Passo 2: Adicione os cogumelos fatiados, a cebola picada e o alho picado.",
+              "Passo 3: Despeje o caldo de galinha sobre os ingredientes.",
+              "Passo 4: Tempere com tomilho, sal e pimenta do reino.",
+              "Passo 5: Cubra e cozinhe em fogo baixo por 4 horas.",
+              "Passo 6: Após 4 horas, remova o frango e reserve.",
+              "Passo 7: Adicione o creme de leite à panela elétrica, mexa bem.",
+              "Passo 8: Devolva o frango à panela elétrica e cozinhe por mais 30 minutos.",
+              "Passo 9: Sirva o frango cremoso com cogumelos sobre arroz ou massa."
+          ]
+      },
+      "notes": "For a thicker sauce, mix a tablespoon of cornstarch with two tablespoons of cold water and add it to the slow cooker 30 minutes before the cooking ends.",
+      "tags": [
+          "Slow Cooker",
+          "Dinner",
+          "Creamy",
+          "Mushrooms",
+          "Chicken",
+          "Easy",
+          "Comfort"
+      ]
+  },
+  {
+      "id": "italiansausage1234",
+      "title": {
+          "en": "Slow Cooker Italian Sausage and Peppers",
+          "es": "Salchicha Italiana y Pimientos en Olla Lenta",
+          "fr": "Saucisse italienne et poivrons à la mijoteuse",
+          "de": "Italienische Wurst und Paprika im Slow Cooker",
+          "pt": "Salsicha Italiana e Pimentões na Panela Lenta"
+      },
+      "description": {
+          "en": "A savory, slow-cooked Italian classic with sausages, bell peppers, and a medley of spices.",
+          "es": "Un clásico italiano sabroso cocinado lentamente con salchichas, pimientos y una mezcla de especias.",
+          "fr": "Un classique italien savoureux cuisiné lentement avec des saucisses, des poivrons et un mélange d'épices.",
+          "de": "Ein herzhaftes, langsam gekochtes italienisches Gericht mit Würstchen, Paprika und einer Vielzahl von Gewürzen.",
+          "pt": "Um clássico italiano saboroso cozido lentamente com salsichas, pimentões e uma mistura de especiarias."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 320,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Italian sausages",
+                  "quantity": "6",
+                  "measurementUnit": "links"
+              },
+              {
+                  "name": "Bell peppers",
+                  "quantity": "3",
+                  "measurementUnit": "large, sliced"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "large, sliced"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "4",
+                  "measurementUnit": "cloves, minced"
+              },
+              {
+                  "name": "Crushed tomatoes",
+                  "quantity": "1",
+                  "measurementUnit": "can (28 oz)"
+              },
+              {
+                  "name": "Tomato paste",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Dried oregano",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Dried basil",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Red pepper flakes",
+                  "quantity": "1/2",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Black pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Fresh basil",
+                  "quantity": "for garnish",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Salchichas italianas",
+                  "quantity": "6",
+                  "measurementUnit": "unidades"
+              },
+              {
+                  "name": "Pimientos morrones",
+                  "quantity": "3",
+                  "measurementUnit": "grandes, en rodajas"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "grande, en rodajas"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "4",
+                  "measurementUnit": "dientes, picados"
+              },
+              {
+                  "name": "Tomate triturado",
+                  "quantity": "1",
+                  "measurementUnit": "lata (28 oz)"
+              },
+              {
+                  "name": "Puré de tomate",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Orégano seco",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Albahaca seca",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Copos de pimiento rojo",
+                  "quantity": "1/2",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Albahaca fresca",
+                  "quantity": "para decorar",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Saucisses italiennes",
+                  "quantity": "6",
+                  "measurementUnit": "unités"
+              },
+              {
+                  "name": "Poivrons",
+                  "quantity": "3",
+                  "measurementUnit": "gros, tranchés"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "gros, tranché"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "4",
+                  "measurementUnit": "gousses, hachées"
+              },
+              {
+                  "name": "Tomates concassées",
+                  "quantity": "1",
+                  "measurementUnit": "boîte (28 oz)"
+              },
+              {
+                  "name": "Concentré de tomate",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Origan séché",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Basilic séché",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Flocons de piment rouge",
+                  "quantity": "1/2",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Basilic frais",
+                  "quantity": "pour garnir",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Italienische Würstchen",
+                  "quantity": "6",
+                  "measurementUnit": "Stück"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "3",
+                  "measurementUnit": "groß, in Scheiben geschnitten"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "groß, in Scheiben geschnitten"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "4",
+                  "measurementUnit": "Zehen, gehackt"
+              },
+              {
+                  "name": "Passierte Tomaten",
+                  "quantity": "1",
+                  "measurementUnit": "Dose (28 oz)"
+              },
+              {
+                  "name": "Tomatenmark",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Getrocknetes Oregano",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Getrocknetes Basilikum",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Rote Pfefferflocken",
+                  "quantity": "1/2",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Frisches Basilikum",
+                  "quantity": "zum Garnieren",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Salsichas italianas",
+                  "quantity": "6",
+                  "measurementUnit": "unidades"
+              },
+              {
+                  "name": "Pimentões",
+                  "quantity": "3",
+                  "measurementUnit": "grandes, fatiados"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "grande, fatiada"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "4",
+                  "measurementUnit": "dentes, picados"
+              },
+              {
+                  "name": "Tomate triturado",
+                  "quantity": "1",
+                  "measurementUnit": "lata (28 oz)"
+              },
+              {
+                  "name": "Extrato de tomate",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Orégano seco",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Manjericão seco",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Pimenta vermelha em flocos",
+                  "quantity": "1/2",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta-do-reino",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Manjericão fresco",
+                  "quantity": "para decorar",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In the slow cooker, combine the sliced onions, bell peppers, and minced garlic.",
+              "Place the Italian sausages on top of the vegetables.",
+              "In a bowl, mix the crushed tomatoes, tomato paste, oregano, basil, red pepper flakes, salt, and black pepper.",
+              "Pour the tomato mixture over the sausages and vegetables in the slow cooker.",
+              "Cover and cook on low for 4 hours or until sausages are cooked through and vegetables are tender.",
+              "Serve the sausages and peppers with a garnish of fresh basil."
+          ],
+          "es": [
+              "En la olla lenta, combina las cebollas en rodajas, los pimientos y el ajo picado.",
+              "Coloca las salchichas italianas encima de las verduras.",
+              "En un tazón, mezcla los tomates triturados, el puré de tomate, el orégano, la albahaca, los copos de pimiento rojo, la sal y la pimienta negra.",
+              "Vierte la mezcla de tomate sobre las salchichas y verduras en la olla lenta.",
+              "Cubre y cocina a fuego lento durante 4 horas o hasta que las salchichas estén cocidas y las verduras estén tiernas.",
+              "Sirve las salchichas y pimientos con un toque de albahaca fresca."
+          ],
+          "fr": [
+              "Dans la mijoteuse, mélangez les oignons tranchés, les poivrons et l'ail haché.",
+              "Placez les saucisses italiennes sur les légumes.",
+              "Dans un bol, mélangez les tomates concassées, la pâte de tomate, l'origan, le basilic, les flocons de piment rouge, le sel et le poivre noir.",
+              "Versez le mélange de tomates sur les saucisses et les légumes dans la mijoteuse.",
+              "Couvrez et faites cuire à feu doux pendant 4 heures ou jusqu'à ce que les saucisses soient cuites et les légumes tendres.",
+              "Servez les saucisses et les poivrons avec une garniture de basilic frais."
+          ],
+          "de": [
+              "In dem Slow Cooker die geschnittenen Zwiebeln, Paprika und gehackten Knoblauch vermengen.",
+              "Die italienischen Würstchen auf das Gemüse legen.",
+              "In einer Schüssel die passierten Tomaten, das Tomatenmark, den Oregano, Basilikum, die roten Pfefferflocken, Salz und schwarzen Pfeffer mischen.",
+              "Die Tomatenmischung über die Würstchen und das Gemüse im Slow Cooker gießen.",
+              "Abdecken und 4 Stunden auf niedriger Stufe kochen oder bis die Würstchen durchgegart und das Gemüse zart sind.",
+              "Die Würstchen und Paprika mit frischem Basilikum garnieren und servieren."
+          ],
+          "pt": [
+              "Na panela lenta, combine as cebolas fatiadas, os pimentões e o alho picado.",
+              "Coloque as salsichas italianas por cima dos legumes.",
+              "Em uma tigela, misture os tomates triturados, o extrato de tomate, o orégano, o manjericão, os flocos de pimenta vermelha, o sal e a pimenta-do-reino.",
+              "Despeje a mistura de tomate sobre as salsichas e legumes na panela lenta.",
+              "Cubra e cozinhe em fogo baixo por 4 horas ou até que as salsichas estejam cozidas e os legumes estejam macios.",
+              "Sirva as salsichas e pimentões com um toque de manjericão fresco."
+          ]
+      },
+      "notes": "For a spicier kick, increase the red pepper flakes. Serve over pasta or with crusty bread.",
+      "tags": [
+          "Slow Cooker",
+          "Italian",
+          "Easy",
+          "Dinner",
+          "Comfort",
+          "Gluten Free",
+          "Dairy Free"
+      ]
   }
 ]
