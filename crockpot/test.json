@@ -1461,5 +1461,678 @@
           "Sandwich",
           "BBQ"
       ]
+  },
+  {
+      "id": "sweetandspicy7463",
+      "title": {
+          "en": "Sweet and Spicy Ribs",
+          "es": "Costillas Dulces y Picantes",
+          "fr": "Côtes douces et épicées",
+          "de": "Süße und würzige Rippchen",
+          "pt": "Costelas Doces e Picantes"
+      },
+      "description": {
+          "en": "Tender, fall-off-the-bone ribs with a delightful mix of sweetness and heat, perfect for any occasion.",
+          "es": "Costillas tiernas y jugosas con una deliciosa mezcla de dulzura y picante, perfectas para cualquier ocasión.",
+          "fr": "Des côtes tendres et savoureuses, avec un mélange délicieux de douceur et de chaleur, parfaites pour toutes les occasions.",
+          "de": "Zarte, vom Knochen fallende Rippchen mit einer köstlichen Mischung aus Süße und Schärfe, perfekt für jede Gelegenheit.",
+          "pt": "Costelas macias, que se soltam do osso, com uma deliciosa mistura de doçura e picância, perfeitas para qualquer ocasião."
+      },
+      "image": "",
+      "servings": 4,
+      "prepTime": {
+          "number": 20,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 300,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Pork Ribs",
+                  "quantity": "2",
+                  "measurementUnit": "pounds"
+              },
+              {
+                  "name": "Brown Sugar",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Soy Sauce",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "3",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Ginger",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Red Pepper Flakes",
+                  "quantity": "1/2",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Costillas de Cerdo",
+                  "quantity": "2",
+                  "measurementUnit": "libras"
+              },
+              {
+                  "name": "Azúcar Morena",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Salsa de Soja",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "3",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Jengibre",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Copos de Pimienta Roja",
+                  "quantity": "1/2",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Côtes de Porc",
+                  "quantity": "2",
+                  "measurementUnit": "livres"
+              },
+              {
+                  "name": "Cassonade",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Sauce Soja",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "3",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Gingembre",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Flocons de Piment Rouge",
+                  "quantity": "1/2",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Schweinerippchen",
+                  "quantity": "2",
+                  "measurementUnit": "Pfund"
+              },
+              {
+                  "name": "Brauner Zucker",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Sojasoße",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "3",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Ingwer",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Rote Pfefferflocken",
+                  "quantity": "1/2",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Costelas de Porco",
+                  "quantity": "2",
+                  "measurementUnit": "libras"
+              },
+              {
+                  "name": "Açúcar Mascavo",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Molho de Soja",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "3",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Gengibre",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Pimenta Vermelha em Flocos",
+                  "quantity": "1/2",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a bowl, mix brown sugar, soy sauce, ketchup, minced garlic, ginger, and red pepper flakes.",
+              "Place ribs in the slow cooker, sprinkle with salt, and pour the sauce mixture over them.",
+              "Cook on low for 6-7 hours or on high for 4 hours until the ribs are tender and cooked through."
+          ],
+          "es": [
+              "En un bol, mezcla el azúcar morena, la salsa de soja, el ketchup, el ajo picado, el jengibre y los copos de pimienta roja.",
+              "Coloca las costillas en la olla de cocción lenta, espolvorea con sal y vierte la mezcla de salsa sobre ellas.",
+              "Cocina a fuego lento durante 6-7 horas o a alta temperatura durante 4 horas, hasta que las costillas estén tiernas y cocidas."
+          ],
+          "fr": [
+              "Dans un bol, mélangez la cassonade, la sauce soja, le ketchup, l'ail haché, le gingembre et les flocons de piment rouge.",
+              "Placez les côtes dans la mijoteuse, saupoudrez de sel et versez le mélange de sauce dessus.",
+              "Cuisez à feu doux pendant 6 à 7 heures ou à feu vif pendant 4 heures, jusqu'à ce que les côtes soient tendres et bien cuites."
+          ],
+          "de": [
+              "In einer Schüssel braunen Zucker, Sojasoße, Ketchup, gehackten Knoblauch, Ingwer und rote Pfefferflocken vermischen.",
+              "Die Rippchen in den Slow Cooker legen, mit Salz bestreuen und die Saucenmischung darüber gießen.",
+              "Bei niedriger Hitze 6-7 Stunden oder bei hoher Hitze 4 Stunden kochen, bis die Rippchen zart und durchgegart sind."
+          ],
+          "pt": [
+              "Em uma tigela, misture açúcar mascavo, molho de soja, ketchup, alho picado, gengibre e pimenta vermelha em flocos.",
+              "Coloque as costelas na panela elétrica, polvilhe com sal e despeje a mistura de molho sobre elas.",
+              "Cozinhe em fogo baixo por 6-7 horas ou em fogo alto por 4 horas, até que as costelas estejam macias e cozidas."
+          ]
+      },
+      "notes": "For a caramelized finish, broil the ribs for 5-10 minutes after slow cooking. Adjust spice levels to suit your preference.",
+      "tags": [
+          "Slow Cooker",
+          "Sweet",
+          "Spicy",
+          "Pork",
+          "Dinner",
+          "Easy",
+          "Comfort"
+      ]
+  },
+  {
+      "id": "vegetarianchili5678",
+      "title": {
+          "en": "Slow Cooker Vegetarian Chili",
+          "es": "Chili vegetariano de cocción lenta",
+          "fr": "Chili végétarien à la mijoteuse",
+          "de": "Vegetarischer Chili im Slow Cooker",
+          "pt": "Chili vegetariano na panela elétrica"
+      },
+      "description": {
+          "en": "A hearty and flavorful slow cooker vegetarian chili packed with beans, veggies, and spices.",
+          "es": "Un chili vegetariano abundante y lleno de sabor cocido lentamente, repleto de frijoles, verduras y especias.",
+          "fr": "Un chili végétarien copieux et savoureux préparé lentement avec des haricots, des légumes et des épices.",
+          "de": "Ein herzhafter und geschmackvoller vegetarischer Chili, vollgepackt mit Bohnen, Gemüse und Gewürzen, zubereitet im Slow Cooker.",
+          "pt": "Um chili vegetariano substancioso e saboroso, repleto de feijão, legumes e especiarias, cozido lentamente na panela elétrica."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 20,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 250,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Kidney beans",
+                  "quantity": "2",
+                  "measurementUnit": "cans, drained and rinsed"
+              },
+              {
+                  "name": "Black beans",
+                  "quantity": "1",
+                  "measurementUnit": "can, drained and rinsed"
+              },
+              {
+                  "name": "Diced tomatoes",
+                  "quantity": "1",
+                  "measurementUnit": "can"
+              },
+              {
+                  "name": "Corn",
+                  "quantity": "1",
+                  "measurementUnit": "cup, frozen or canned"
+              },
+              {
+                  "name": "Bell peppers",
+                  "quantity": "2",
+                  "measurementUnit": "diced"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "diced"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "3",
+                  "measurementUnit": "cloves, minced"
+              },
+              {
+                  "name": "Vegetable broth",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Chili powder",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Cumin",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Frijoles rojos",
+                  "quantity": "2",
+                  "measurementUnit": "latas, escurridos y enjuagados"
+              },
+              {
+                  "name": "Frijoles negros",
+                  "quantity": "1",
+                  "measurementUnit": "lata, escurrida y enjuagada"
+              },
+              {
+                  "name": "Tomates cortados en cubitos",
+                  "quantity": "1",
+                  "measurementUnit": "lata"
+              },
+              {
+                  "name": "Maíz",
+                  "quantity": "1",
+                  "measurementUnit": "taza, congelado o enlatado"
+              },
+              {
+                  "name": "Pimientos morrones",
+                  "quantity": "2",
+                  "measurementUnit": "cortados en cubitos"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "cortada en cubitos"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "3",
+                  "measurementUnit": "dientes, picados"
+              },
+              {
+                  "name": "Caldo de verduras",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Chile en polvo",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Comino",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Pimentón",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Haricots rouges",
+                  "quantity": "2",
+                  "measurementUnit": "boîtes, égouttés et rincés"
+              },
+              {
+                  "name": "Haricots noirs",
+                  "quantity": "1",
+                  "measurementUnit": "boîte, égouttée et rincée"
+              },
+              {
+                  "name": "Tomates coupées en dés",
+                  "quantity": "1",
+                  "measurementUnit": "boîte"
+              },
+              {
+                  "name": "Maïs",
+                  "quantity": "1",
+                  "measurementUnit": "tasse, congelé ou en conserve"
+              },
+              {
+                  "name": "Poivrons",
+                  "quantity": "2",
+                  "measurementUnit": "coupés en dés"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "coupé en dés"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "3",
+                  "measurementUnit": "gousses, hachées"
+              },
+              {
+                  "name": "Bouillon de légumes",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Poudre de chili",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Cumin",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Kidneybohnen",
+                  "quantity": "2",
+                  "measurementUnit": "Dosen, abgetropft und abgespült"
+              },
+              {
+                  "name": "Schwarze Bohnen",
+                  "quantity": "1",
+                  "measurementUnit": "Dose, abgetropft und abgespült"
+              },
+              {
+                  "name": "Gehackte Tomaten",
+                  "quantity": "1",
+                  "measurementUnit": "Dose"
+              },
+              {
+                  "name": "Mais",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse, gefroren oder aus der Dose"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "2",
+                  "measurementUnit": "gewürfelt"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "gewürfelt"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "3",
+                  "measurementUnit": "Zehen, gehackt"
+              },
+              {
+                  "name": "Gemüsebrühe",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Chilipulver",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Kreuzkümmel",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Feijão vermelho",
+                  "quantity": "2",
+                  "measurementUnit": "latas, escorrido e enxaguado"
+              },
+              {
+                  "name": "Feijão preto",
+                  "quantity": "1",
+                  "measurementUnit": "lata, escorrido e enxaguado"
+              },
+              {
+                  "name": "Tomate em cubos",
+                  "quantity": "1",
+                  "measurementUnit": "lata"
+              },
+              {
+                  "name": "Milho",
+                  "quantity": "1",
+                  "measurementUnit": "xícara, congelado ou enlatado"
+              },
+              {
+                  "name": "Pimentão",
+                  "quantity": "2",
+                  "measurementUnit": "picado"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "picada"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "3",
+                  "measurementUnit": "dentes, picados"
+              },
+              {
+                  "name": "Caldo de legumes",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Pimenta em pó",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Cominho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Páprica",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Step 1: In a slow cooker, combine all the ingredients.",
+              "Step 2: Stir well to mix everything thoroughly.",
+              "Step 3: Cover and cook on low for 4-6 hours.",
+              "Step 4: Serve hot, optionally topped with shredded cheese, sour cream, and fresh cilantro."
+          ],
+          "es": [
+              "Paso 1: En una olla de cocción lenta, combina todos los ingredientes.",
+              "Paso 2: Mezcla bien para integrar todo completamente.",
+              "Paso 3: Cubre y cocina a fuego lento durante 4-6 horas.",
+              "Paso 4: Sirve caliente, opcionalmente con queso rallado, crema agria y cilantro fresco."
+          ],
+          "fr": [
+              "Étape 1 : Dans une mijoteuse, mélangez tous les ingrédients.",
+              "Étape 2 : Remuez bien pour bien mélanger le tout.",
+              "Étape 3 : Couvrez et laissez cuire à feu doux pendant 4 à 6 heures.",
+              "Étape 4 : Servez chaud, éventuellement avec du fromage râpé, de la crème sure et du coriandre frais."
+          ],
+          "de": [
+              "Schritt 1: In einem Slow Cooker alle Zutaten vermengen.",
+              "Schritt 2: Gut umrühren, um alles gründlich zu vermischen.",
+              "Schritt 3: Abdecken und auf niedriger Stufe 4-6 Stunden garen.",
+              "Schritt 4: Heiß servieren, optional mit geriebenem Käse, saurer Sahne und frischem Koriander garnieren."
+          ],
+          "pt": [
+              "Passo 1: Em uma panela elétrica, misture todos os ingredientes.",
+              "Passo 2: Mexa bem para misturar tudo completamente.",
+              "Passo 3: Cubra e cozinhe em fogo baixo por 4-6 horas.",
+              "Passo 4: Sirva quente, opcionalmente com queijo ralado, creme de leite e coentro fresco."
+          ]
+      },
+      "notes": "For a smokier flavor, add a chipotle pepper in adobo sauce. Adjust the spice level by increasing or decreasing the chili powder.",
+      "tags": [
+          "Vegetarian",
+          "Slow Cooker",
+          "Healthy",
+          "Easy",
+          "Gluten Free",
+          "Dairy Free",
+          "Comfort"
+      ]
   }
 ]
