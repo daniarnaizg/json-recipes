@@ -1187,5 +1187,279 @@
           "Gluten Free",
           "Heart Healthy"
       ]
+  },
+  {
+      "id": "bbqpulledpork5678",
+      "title": {
+          "en": "Slow Cooker BBQ Pulled Pork",
+          "es": "Cerdo desmenuzado a la barbacoa en olla de cocción lenta",
+          "fr": "Porc effiloché à la barbecue en mijoteuse",
+          "de": "Barbecue Pulled Pork im Slow Cooker",
+          "pt": "Porco desfiado com molho barbecue na panela lenta"
+      },
+      "description": {
+          "en": "Tender and flavorful BBQ pulled pork made in a slow cooker, perfect for sandwiches or served with sides.",
+          "es": "Cerdo desmenuzado y sabroso hecho en una olla de cocción lenta, perfecto para sándwiches o acompañado de otros platos.",
+          "fr": "Porc effiloché tendre et plein de saveurs préparé dans une mijoteuse, parfait pour les sandwichs ou accompagné d'accompagnements.",
+          "de": "Zartes und geschmackvolles BBQ-Pulled-Pork, hergestellt im Slow Cooker, perfekt für Sandwiches oder als Beilage.",
+          "pt": "Carnitas suculentas e saborosas feitas na panela lenta, perfeitas para sanduíches ou servidas com acompanhamentos."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 20,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 6,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 350,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Pork shoulder",
+                  "quantity": "3",
+                  "measurementUnit": "pounds"
+              },
+              {
+                  "name": "BBQ sauce",
+                  "quantity": "1.5",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Brown sugar",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Apple cider vinegar",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Garlic powder",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Onion, chopped",
+                  "quantity": "1",
+                  "measurementUnit": "medium"
+              },
+              {
+                  "name": "Hamburger buns",
+                  "quantity": "6",
+                  "measurementUnit": "pieces"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Paleta de cerdo",
+                  "quantity": "1.5",
+                  "measurementUnit": "kilogramos"
+              },
+              {
+                  "name": "Salsa barbacoa",
+                  "quantity": "1.5",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Azúcar moreno",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Vinagre de sidra de manzana",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Ajo en polvo",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Cebolla, picada",
+                  "quantity": "1",
+                  "measurementUnit": "mediana"
+              },
+              {
+                  "name": "Pan de hamburguesa",
+                  "quantity": "6",
+                  "measurementUnit": "piezas"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Épaule de porc",
+                  "quantity": "1.5",
+                  "measurementUnit": "livres"
+              },
+              {
+                  "name": "Sauce barbecue",
+                  "quantity": "1.5",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Cassonade",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Vinaigre de cidre de pomme",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ail en poudre",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Oignon, haché",
+                  "quantity": "1",
+                  "measurementUnit": "moyen"
+              },
+              {
+                  "name": "Pains à hamburger",
+                  "quantity": "6",
+                  "measurementUnit": "pièces"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Schweineschulter",
+                  "quantity": "1.5",
+                  "measurementUnit": "Pfund"
+              },
+              {
+                  "name": "BBQ-Soße",
+                  "quantity": "1.5",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Brauner Zucker",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Apfelessig",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Knoblauchpulver",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Zwiebel, gehackt",
+                  "quantity": "1",
+                  "measurementUnit": "mittelgroß"
+              },
+              {
+                  "name": "Hamburgerbrötchen",
+                  "quantity": "6",
+                  "measurementUnit": "Stück"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Pernil de porco",
+                  "quantity": "1.5",
+                  "measurementUnit": "quilos"
+              },
+              {
+                  "name": "Molho de barbecue",
+                  "quantity": "1.5",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Açúcar mascavo",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Vinagre de maçã",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Alho em pó",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Cebola picada",
+                  "quantity": "1",
+                  "measurementUnit": "média"
+              },
+              {
+                  "name": "Pães de hambúrguer",
+                  "quantity": "6",
+                  "measurementUnit": "unidades"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Mix BBQ sauce, brown sugar, apple cider vinegar, and garlic powder in the slow cooker.",
+              "Add the pork shoulder and coat it with the sauce mixture.",
+              "Top with chopped onions.",
+              "Cook on low for 6 hours or until the pork is tender and easily falls apart.",
+              "Once done, remove the pork, shred it using two forks, and mix it back into the sauce.",
+              "Serve the pulled pork on hamburger buns. Enjoy!"
+          ],
+          "es": [
+              "Mezcla la salsa barbacoa, el azúcar moreno, el vinagre de sidra de manzana y el ajo en polvo en la olla de cocción lenta.",
+              "Añade la paleta de cerdo y cúbrela con la mezcla de salsa.",
+              "Agrega la cebolla picada por encima.",
+              "Cocina a fuego lento durante 6 horas o hasta que el cerdo esté tierno y se desmenuce fácilmente.",
+              "Una vez listo, retira el cerdo, desmenúzalo con dos tenedores y mézclalo de nuevo con la salsa.",
+              "Sirve el cerdo desmenuzado en los panes de hamburguesa. ¡Disfruta!"
+          ],
+          "fr": [
+              "Mélangez la sauce barbecue, la cassonade, le vinaigre de cidre de pomme et l'ail en poudre dans la mijoteuse.",
+              "Ajoutez l'épaule de porc et enrobez-la de ce mélange de sauce.",
+              "Ajoutez les oignons hachés par-dessus.",
+              "Laissez cuire à feu doux pendant 6 heures ou jusqu'à ce que le porc soit tendre et se défasse facilement.",
+              "Une fois prêt, retirez le porc, effilochez-le à l'aide de deux fourchettes et mélangez-le à nouveau à la sauce.",
+              "Servez le porc effiloché sur des pains à hamburger. Bon appétit !"
+          ],
+          "de": [
+              "Mische BBQ-Sauce, braunen Zucker, Apfelessig und Knoblauchpulver im Slow Cooker.",
+              "Gib die Schweineschulter dazu und bedecke sie mit der Sauce.",
+              "Mit gehackten Zwiebeln bestreuen.",
+              "Koche es auf niedriger Stufe für 6 Stunden oder bis das Schweinefleisch zart ist und sich leicht zerteilen lässt.",
+              "Sobald es fertig ist, nimm das Fleisch heraus, zerpflücke es mit zwei Gabeln und mische es zurück in die Sauce.",
+              "Serviere das Pulled Pork auf Hamburgerbrötchen. Guten Appetit!"
+          ],
+          "pt": [
+              "Misture o molho de barbecue, o açúcar mascavo, o vinagre de maçã e o alho em pó na panela lenta.",
+              "Adicione o pernil de porco e cubra-o com a mistura de molho.",
+              "Adicione a cebola picada por cima.",
+              "Cozinhe em fogo baixo por 6 horas ou até que o porco esteja macio e se desfaça facilmente.",
+              "Depois de pronto, retire o porco, desfie-o usando dois garfos e misture-o de volta no molho.",
+              "Sirva o porco desfiado nos pães de hambúrguer. Aproveite!"
+          ]
+      },
+      "notes": "For a smokier flavor, add a teaspoon of liquid smoke to the sauce mixture.",
+      "tags": [
+          "Easy",
+          "Slow Cooker",
+          "Pork",
+          "Dinner",
+          "Comfort",
+          "Sandwich",
+          "BBQ"
+      ]
   }
 ]
