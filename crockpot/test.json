@@ -5443,5 +5443,1321 @@
           "Easy",
           "Low Fat"
       ]
+  },
+  {
+      "id": "applecinnamonpork2345",
+      "title": {
+          "en": "Apple Cinnamon Pork",
+          "es": "Cerdo con Manzana y Canela",
+          "fr": "Porc à la Pomme et à la Cannelle",
+          "de": "Apfel-Zimt-Schweinefleisch",
+          "pt": "Porco com Maçã e Canela"
+      },
+      "description": {
+          "en": "A comforting, flavorful dish that combines the sweetness of apples and the warmth of cinnamon with tender, slow-cooked pork.",
+          "es": "Un plato reconfortante y sabroso que combina la dulzura de las manzanas y el calor de la canela con cerdo cocido lentamente y tierno.",
+          "fr": "Un plat réconfortant et savoureux qui marie la douceur des pommes et la chaleur de la cannelle avec du porc cuit lentement et tendre.",
+          "de": "Ein tröstliches, geschmackvolles Gericht, das die Süße von Äpfeln und die Wärme von Zimt mit zartem, langsam gekochtem Schweinefleisch vereint.",
+          "pt": "Um prato reconfortante e saboroso que combina a doçura das maçãs e o calor da canela com carne de porco cozida lentamente e tenra."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 320,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Pork shoulder or butt, trimmed and cubed",
+                  "quantity": "2",
+                  "measurementUnit": "pounds"
+              },
+              {
+                  "name": "Apples, peeled, cored, and sliced",
+                  "quantity": "3",
+                  "measurementUnit": "large"
+              },
+              {
+                  "name": "Onion, sliced",
+                  "quantity": "1",
+                  "measurementUnit": "large"
+              },
+              {
+                  "name": "Chicken or vegetable broth",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Cinnamon",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Brown sugar or maple syrup",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Black pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Pernil de cerdo o paleta, recortado y cortado en cubos",
+                  "quantity": "2",
+                  "measurementUnit": "libras"
+              },
+              {
+                  "name": "Manzanas, peladas, descorazonadas y cortadas",
+                  "quantity": "3",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Cebolla, en rodajas",
+                  "quantity": "1",
+                  "measurementUnit": "grande"
+              },
+              {
+                  "name": "Caldo de pollo o vegetales",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Canela",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Azúcar moreno o jarabe de arce",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Épaule ou palette de porc, parée et coupée en dés",
+                  "quantity": "2",
+                  "measurementUnit": "livres"
+              },
+              {
+                  "name": "Pommes, pelées, évidées et tranchées",
+                  "quantity": "3",
+                  "measurementUnit": "grosses"
+              },
+              {
+                  "name": "Oignon, tranché",
+                  "quantity": "1",
+                  "measurementUnit": "gros"
+              },
+              {
+                  "name": "Bouillon de poulet ou de légumes",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Cannelle",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sucre brun ou sirop d'érable",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Schweineschulter oder Schweinekotelett, zubereitet und gewürfelt",
+                  "quantity": "2",
+                  "measurementUnit": "Pfund"
+              },
+              {
+                  "name": "Äpfel, geschält, entkernt und geschnitten",
+                  "quantity": "3",
+                  "measurementUnit": "groß"
+              },
+              {
+                  "name": "Zwiebel, in Scheiben geschnitten",
+                  "quantity": "1",
+                  "measurementUnit": "groß"
+              },
+              {
+                  "name": "Hühner- oder Gemüsebrühe",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Zimt",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Brauner Zucker oder Ahornsirup",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Paleta ou lombo de porco, limpo e cortado em cubos",
+                  "quantity": "2",
+                  "measurementUnit": "libras"
+              },
+              {
+                  "name": "Maçãs, descascadas, sem sementes e cortadas",
+                  "quantity": "3",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Cebola, em rodelas",
+                  "quantity": "1",
+                  "measurementUnit": "grande"
+              },
+              {
+                  "name": "Caldo de galinha ou legumes",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Canela",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Açúcar mascavo ou xarope de bordo",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta-do-reino",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Season the pork with salt and black pepper.",
+              "Place the pork, apples, and onions in the slow cooker.",
+              "In a bowl, mix the broth, cinnamon, and brown sugar (or maple syrup). Pour over the pork mixture.",
+              "Cover and cook on low for 4 hours or until the pork is tender.",
+              "Serve hot. Optionally, thicken the sauce using cornstarch if desired."
+          ],
+          "es": [
+              "Sazona el cerdo con sal y pimienta negra.",
+              "Coloca el cerdo, las manzanas y las cebollas en la olla de cocción lenta.",
+              "En un recipiente, mezcla el caldo, la canela y el azúcar moreno (o jarabe de arce). Vierte sobre la mezcla de cerdo.",
+              "Cubre y cocina a fuego lento durante 4 horas o hasta que el cerdo esté tierno.",
+              "Sirve caliente. Opcionalmente, espesa la salsa con maicena si lo deseas."
+          ],
+          "fr": [
+              "Assaisonnez le porc avec du sel et du poivre noir.",
+              "Placez le porc, les pommes et les oignons dans la mijoteuse.",
+              "Dans un bol, mélangez le bouillon, la cannelle et le sucre brun (ou sirop d'érable). Versez sur le mélange de porc.",
+              "Couvrez et faites cuire à feu doux pendant 4 heures ou jusqu'à ce que le porc soit tendre.",
+              "Servez chaud. Épaississez éventuellement la sauce avec de la fécule de maïs si vous le souhaitez."
+          ],
+          "de": [
+              "Würze das Schweinefleisch mit Salz und schwarzem Pfeffer.",
+              "Gib das Schweinefleisch, die Äpfel und die Zwiebeln in den langsamen Kocher.",
+              "Mische in einer Schüssel die Brühe, Zimt und braunen Zucker (oder Ahornsirup). Über das Schweinefleisch gießen.",
+              "Abdecken und 4 Stunden langsam kochen oder bis das Schweinefleisch zart ist.",
+              "Heiß servieren. Optional die Soße bei Bedarf mit Maisstärke andicken."
+          ],
+          "pt": [
+              "Tempere o porco com sal e pimenta-do-reino.",
+              "Coloque o porco, as maçãs e as cebolas na panela de cozimento lento.",
+              "Em uma tigela, misture o caldo, a canela e o açúcar mascavo (ou xarope de bordo). Despeje sobre a mistura de porco.",
+              "Cubra e cozinhe em fogo baixo por 4 horas ou até que o porco esteja macio.",
+              "Sirva quente. Opcionalmente, engrosse o molho com amido de milho, se desejar."
+          ]
+      },
+      "notes": "For a thicker sauce, mix 1 tablespoon of cornstarch with 2 tablespoons of cold water. Stir the mixture into the slow cooker 30 minutes before the cooking time is complete.",
+      "tags": [
+          "Slow Cooker",
+          "Easy",
+          "Comfort",
+          "Pork",
+          "Dinner",
+          "Gluten Free",
+          "Fall"
+      ]
+  },
+  {
+      "id": "greeklemonpotatoes3456",
+      "title": {
+          "en": "Greek Lemon Potatoes",
+          "es": "Papas griegas al limón",
+          "fr": "Pommes de terre au citron à la grecque",
+          "de": "Griechische Zitronenkartoffeln",
+          "pt": "Batatas gregas com limão"
+      },
+      "description": {
+          "en": "Tender and flavorful Greek-style potatoes infused with lemon, cooked slowly for a delightful dish.",
+          "es": "Papas al estilo griego tiernas y sabrosas infusionadas con limón, cocidas lentamente para un plato delicioso.",
+          "fr": "Des pommes de terre tendres et savoureuses de style grec infusées au citron, cuites lentement pour un plat délicieux.",
+          "de": "Zarte und geschmackvolle griechische Kartoffeln mit Zitrusnote, langsam gekocht für ein köstliches Gericht.",
+          "pt": "Batatas à moda grega macias e saborosas, infundidas com limão, cozidas lentamente para um prato delicioso."
+      },
+      "image": "",
+      "servings": 4,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 220,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Potatoes",
+                  "quantity": "4",
+                  "measurementUnit": "large, cut into wedges"
+              },
+              {
+                  "name": "Olive Oil",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Vegetable Broth",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "4",
+                  "measurementUnit": "cloves, minced"
+              },
+              {
+                  "name": "Lemon Juice",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Dried Oregano",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste"
+              },
+              {
+                  "name": "Black Pepper",
+                  "quantity": "to taste"
+              },
+              {
+                  "name": "Fresh Parsley",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons, chopped"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Papas",
+                  "quantity": "4",
+                  "measurementUnit": "grandes, cortadas en gajos"
+              },
+              {
+                  "name": "Aceite de oliva",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Caldo de verduras",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "4",
+                  "measurementUnit": "dientes, picados"
+              },
+              {
+                  "name": "Zumo de limón",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Orégano seco",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto"
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto"
+              },
+              {
+                  "name": "Perejil fresco",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas, picado"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Pommes de terre",
+                  "quantity": "4",
+                  "measurementUnit": "grosses, coupées en quartiers"
+              },
+              {
+                  "name": "Huile d'olive",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Bouillon de légumes",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "4",
+                  "measurementUnit": "gousses, hachées"
+              },
+              {
+                  "name": "Jus de citron",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Origan séché",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût"
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût"
+              },
+              {
+                  "name": "Persil frais",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe, haché"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Kartoffeln",
+                  "quantity": "4",
+                  "measurementUnit": "große, in Spalten geschnitten"
+              },
+              {
+                  "name": "Olivenöl",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Gemüsebrühe",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "4",
+                  "measurementUnit": "Zehen, gehackt"
+              },
+              {
+                  "name": "Zitronensaft",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Getrockneter Oregano",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack"
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack"
+              },
+              {
+                  "name": "Frischer Petersilie",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel, gehackt"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Batatas",
+                  "quantity": "4",
+                  "measurementUnit": "grandes, cortadas em gomos"
+              },
+              {
+                  "name": "Azeite",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Caldo de legumes",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "4",
+                  "measurementUnit": "dentes, picados"
+              },
+              {
+                  "name": "Suco de limão",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Orégano seco",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto"
+              },
+              {
+                  "name": "Pimenta preta",
+                  "quantity": "a gosto"
+              },
+              {
+                  "name": "Salsinha fresca",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa, picada"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a bowl, mix olive oil, vegetable broth, lemon juice, garlic, oregano, salt, and pepper.",
+              "Place the potatoes in the slow cooker, pour the mixture over them, and toss to coat evenly.",
+              "Cover and cook on low for 4 hours or until the potatoes are tender.",
+              "Sprinkle with fresh parsley before serving."
+          ],
+          "es": [
+              "En un bol, mezcla el aceite de oliva, el caldo de verduras, el zumo de limón, el ajo, el orégano, la sal y la pimienta.",
+              "Coloca las papas en la olla de cocción lenta, vierte la mezcla sobre ellas y revuelve para que se cubran uniformemente.",
+              "Cubre y cocina a fuego lento durante 4 horas o hasta que las papas estén tiernas.",
+              "Espolvorea con perejil fresco antes de servir."
+          ],
+          "fr": [
+              "Dans un bol, mélanger l'huile d'olive, le bouillon de légumes, le jus de citron, l'ail, l'origan, le sel et le poivre.",
+              "Placer les pommes de terre dans la mijoteuse, verser le mélange et mélanger pour bien enrober.",
+              "Couvrir et cuire à feu doux pendant 4 heures ou jusqu'à ce que les pommes de terre soient tendres.",
+              "Saupoudrer de persil frais avant de servir."
+          ],
+          "de": [
+              "In einer Schüssel Olivenöl, Gemüsebrühe, Zitronensaft, Knoblauch, Oregano, Salz und Pfeffer vermischen.",
+              "Die Kartoffeln in den Slow Cooker geben, die Mischung darüber gießen und gleichmäßig vermengen.",
+              "Abdecken und 4 Stunden langsam kochen oder bis die Kartoffeln weich sind.",
+              "Vor dem Servieren mit frischer Petersilie bestreuen."
+          ],
+          "pt": [
+              "Em uma tigela, misture o azeite, caldo de legumes, suco de limão, alho, orégano, sal e pimenta.",
+              "Coloque as batatas na panela de cozimento lento, despeje a mistura sobre elas e misture para cobrir uniformemente.",
+              "Cubra e cozinhe em fogo baixo por 4 horas ou até que as batatas estejam macias.",
+              "Polvilhe com salsinha fresca antes de servir."
+          ]
+      },
+      "notes": "For a crispier texture, transfer the cooked potatoes to a baking sheet and broil for a few minutes before serving.",
+      "tags": [
+          "Easy",
+          "Vegetarian",
+          "Gluten Free",
+          "Dairy Free",
+          "Slow Cooker",
+          "Make Ahead",
+          "Side"
+      ]
+  },
+  {
+      "id": "hawaiianpineapple1234",
+      "title": {
+          "en": "Hawaiian Pineapple Chicken",
+          "es": "Pollo Hawaiano con Piña",
+          "fr": "Poulet à l'ananas hawaïen",
+          "de": "Hawaiianisches Ananas-Hühnchen",
+          "pt": "Frango Havaiano com Abacaxi"
+      },
+      "description": {
+          "en": "A sweet and tangy slow-cooked dish with the tropical flavors of Hawaii.",
+          "es": "Un plato dulce y agridulce cocinado lentamente con los sabores tropicales de Hawái.",
+          "fr": "Un plat sucré et acidulé cuit lentement avec les saveurs tropicales d'Hawaï.",
+          "de": "Ein süß-saures, langsam gekochtes Gericht mit den tropischen Aromen von Hawaii.",
+          "pt": "Um prato doce e azedo cozido lentamente com os sabores tropicais do Havaí."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 320,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Chicken thighs",
+                  "quantity": "6",
+                  "measurementUnit": "pieces"
+              },
+              {
+                  "name": "Pineapple chunks",
+                  "quantity": "2",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Bell pepper, chopped",
+                  "quantity": "1",
+                  "measurementUnit": "piece"
+              },
+              {
+                  "name": "Soy sauce",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Brown sugar",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Garlic, minced",
+                  "quantity": "2",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Ginger, grated",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Black pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Muslos de pollo",
+                  "quantity": "6",
+                  "measurementUnit": "piezas"
+              },
+              {
+                  "name": "Trozos de piña",
+                  "quantity": "2",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Pimiento morrón, picado",
+                  "quantity": "1",
+                  "measurementUnit": "pieza"
+              },
+              {
+                  "name": "Salsa de soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Salsa de tomate",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Azúcar moreno",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Ajo, picado",
+                  "quantity": "2",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Jengibre, rallado",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Cuisses de poulet",
+                  "quantity": "6",
+                  "measurementUnit": "pièces"
+              },
+              {
+                  "name": "Morceaux d'ananas",
+                  "quantity": "2",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Poivron, haché",
+                  "quantity": "1",
+                  "measurementUnit": "pièce"
+              },
+              {
+                  "name": "Sauce soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Cassonade",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Ail, haché",
+                  "quantity": "2",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Gingembre, râpé",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Hähnchenschenkel",
+                  "quantity": "6",
+                  "measurementUnit": "Stück"
+              },
+              {
+                  "name": "Ananasstücke",
+                  "quantity": "2",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Paprika, gehackt",
+                  "quantity": "1",
+                  "measurementUnit": "Stück"
+              },
+              {
+                  "name": "Sojasauce",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Brauner Zucker",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Knoblauch, gehackt",
+                  "quantity": "2",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Ingwer, gerieben",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Coxas de frango",
+                  "quantity": "6",
+                  "measurementUnit": "unidades"
+              },
+              {
+                  "name": "Pedacinhos de abacaxi",
+                  "quantity": "2",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Pimentão, picado",
+                  "quantity": "1",
+                  "measurementUnit": "unidade"
+              },
+              {
+                  "name": "Molho de soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Ketchup",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Açúcar mascavo",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Alho, picado",
+                  "quantity": "2",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Gengibre, ralado",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta-do-reino",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a slow cooker, place chicken thighs at the bottom.",
+              "In a bowl, mix pineapple, bell pepper, soy sauce, ketchup, brown sugar, garlic, and ginger.",
+              "Pour the mixture over the chicken.",
+              "Season with salt and black pepper.",
+              "Cover and cook on low for 4 hours.",
+              "Serve over rice and garnish with chopped cilantro, if desired."
+          ],
+          "es": [
+              "En una olla de cocción lenta, coloca los muslos de pollo en el fondo.",
+              "En un recipiente, mezcla la piña, el pimiento, la salsa de soja, el ketchup, el azúcar moreno, el ajo y el jengibre.",
+              "Vierte la mezcla sobre el pollo.",
+              "Sazona con sal y pimienta negra.",
+              "Cubre y cocina a fuego lento durante 4 horas.",
+              "Sirve sobre arroz y decora con cilantro picado, si lo deseas."
+          ],
+          "fr": [
+              "Dans une mijoteuse, placez les cuisses de poulet au fond.",
+              "Dans un bol, mélangez l'ananas, le poivron, la sauce soja, le ketchup, la cassonade, l'ail et le gingembre.",
+              "Versez le mélange sur le poulet.",
+              "Assaisonnez avec du sel et du poivre noir.",
+              "Couvrez et faites cuire à feu doux pendant 4 heures.",
+              "Servez sur du riz et garnissez de coriandre hachée, si désiré."
+          ],
+          "de": [
+              "Lege die Hähnchenschenkel am Boden des Slow Cookers.",
+              "Mische in einer Schüssel Ananas, Paprika, Sojasauce, Ketchup, braunen Zucker, Knoblauch und Ingwer.",
+              "Gieße die Mischung über das Huhn.",
+              "Mit Salz und schwarzem Pfeffer würzen.",
+              "Abdecken und 4 Stunden langsam garen.",
+              "Serviere über Reis und garniere nach Wunsch mit gehackter Koriander."
+          ],
+          "pt": [
+              "Em uma panela de cozimento lento, coloque as coxas de frango no fundo.",
+              "Em uma tigela, misture abacaxi, pimentão, molho de soja, ketchup, açúcar mascavo, alho e gengibre.",
+              "Despeje a mistura sobre o frango.",
+              "Tempere com sal e pimenta-do-reino.",
+              "Cubra e cozinhe em fogo baixo por 4 horas.",
+              "Sirva sobre arroz e enfeite com coentro picado, se desejar."
+          ]
+      },
+      "notes": "For a tangier flavor, add a splash of pineapple juice or a dash of rice vinegar to the sauce.",
+      "tags": [
+          "Slow Cooker",
+          "Hawaiian",
+          "Chicken",
+          "Easy",
+          "Dinner",
+          "Pineapple",
+          "Tropical"
+      ]
+  },
+  {
+      "id": "sesameginger1234",
+      "title": {
+          "en": "Sesame Ginger Beef",
+          "es": "Carne de Sésamo y Jengibre",
+          "fr": "Bœuf Sésame Gingembre",
+          "de": "Sesam-Ingwer-Rindfleisch",
+          "pt": "Carne de Gergelim e Gengibre"
+      },
+      "description": {
+          "en": "Tender beef infused with aromatic sesame and ginger flavors, slow-cooked to perfection.",
+          "es": "Ternera tierna infusionada con aromáticos sabores de sésamo y jengibre, cocida lentamente a la perfección.",
+          "fr": "Bœuf tendre infusé avec des arômes de sésame et de gingembre, lentement mijoté à la perfection.",
+          "de": "Zartes Rindfleisch, durchdrungen von aromatischen Sesam- und Ingwergeschmack, langsam gegart bis zur Perfektion.",
+          "pt": "Carne macia infundida com aromas aromáticos de gergelim e gengibre, cozida lentamente até a perfeição."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "easy",
+          "es": "fácil",
+          "fr": "facile",
+          "de": "einfach",
+          "pt": "fácil"
+      },
+      "calPerServing": 350,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Beef stew meat",
+                  "quantity": "1.5",
+                  "measurementUnit": "pounds"
+              },
+              {
+                  "name": "Soy sauce",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Sesame oil",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Honey",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Rice vinegar",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Fresh ginger, minced",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Garlic, minced",
+                  "quantity": "2",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Red pepper flakes",
+                  "quantity": "1/4",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Cornstarch",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Sesame seeds (for garnish)",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Green onions, chopped (for garnish)",
+                  "quantity": "2",
+                  "measurementUnit": "stalks"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Carne de res para guisar",
+                  "quantity": "700",
+                  "measurementUnit": "gramos"
+              },
+              {
+                  "name": "Salsa de soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Aceite de sésamo",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Miel",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Vinagre de arroz",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Jengibre fresco, picado",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Ajo, picado",
+                  "quantity": "2",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Copos de pimiento rojo",
+                  "quantity": "1/4",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Maicena",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Semillas de sésamo (para decorar)",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Cebollas verdes, picadas (para decorar)",
+                  "quantity": "2",
+                  "measurementUnit": "ramas"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Viande à ragoût de bœuf",
+                  "quantity": "700",
+                  "measurementUnit": "grammes"
+              },
+              {
+                  "name": "Sauce soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Huile de sésame",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Miel",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Vinaigre de riz",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Gingembre frais, haché",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Ail, haché",
+                  "quantity": "2",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Flocons de poivre rouge",
+                  "quantity": "1/4",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Maïzena",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Graines de sésame (pour la garniture)",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Oignons verts, hachés (pour la garniture)",
+                  "quantity": "2",
+                  "measurementUnit": "tiges"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Rindfleisch zum Schmoren",
+                  "quantity": "700",
+                  "measurementUnit": "Gramm"
+              },
+              {
+                  "name": "Sojasoße",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Sesamöl",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Honig",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Reisessig",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Frischer Ingwer, gehackt",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Knoblauch, gehackt",
+                  "quantity": "2",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Rote Pfefferflocken",
+                  "quantity": "1/4",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Maisstärke",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Sesamsamen (zur Garnierung)",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Frühlingszwiebeln, gehackt (zur Garnierung)",
+                  "quantity": "2",
+                  "measurementUnit": "Stängel"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Carne de guisar",
+                  "quantity": "700",
+                  "measurementUnit": "gramas"
+              },
+              {
+                  "name": "Molho de soja",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Óleo de gergelim",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Mel",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Vinagre de arroz",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Gengibre fresco, picado",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Alho, picado",
+                  "quantity": "2",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Pimenta vermelha em flocos",
+                  "quantity": "1/4",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Amido de milho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Sementes de gergelim (para decorar)",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Cebolinha verde picada (para decorar)",
+                  "quantity": "2",
+                  "measurementUnit": "talos"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a bowl, mix soy sauce, sesame oil, honey, rice vinegar, ginger, garlic, and red pepper flakes.",
+              "Place beef in the slow cooker, pour the sauce over it, and toss to coat.",
+              "Cover and cook on low for 4 hours.",
+              "Mix cornstarch with 2 tablespoons of water, stir into the slow cooker, and cook for an additional 15 minutes to thicken the sauce.",
+              "Serve over rice, garnished with sesame seeds and chopped green onions."
+          ],
+          "es": [
+              "En un recipiente, mezcla la salsa de soja, aceite de sésamo, miel, vinagre de arroz, jengibre, ajo y copos de pimiento rojo.",
+              "Coloca la carne en la olla de cocción lenta, vierte la salsa sobre ella y mezcla para cubrir.",
+              "Cubre y cocina a fuego lento durante 4 horas.",
+              "Mezcla la maicena con 2 cucharadas de agua, añade a la olla de cocción lenta y cocina durante 15 minutos adicionales para espesar la salsa.",
+              "Sirve sobre arroz, decorado con semillas de sésamo y cebollas verdes picadas."
+          ],
+          "fr": [
+              "Dans un bol, mélangez la sauce soja, l'huile de sésame, le miel, le vinaigre de riz, le gingembre, l'ail et les flocons de piment rouge.",
+              "Placez le bœuf dans la mijoteuse, versez la sauce dessus et mélangez pour bien enrober.",
+              "Couvrir et cuire à feu doux pendant 4 heures.",
+              "Mélangez la maïzena avec 2 cuillères à soupe d'eau, incorporez à la mijoteuse et cuire encore 15 minutes pour épaissir la sauce.",
+              "Servez sur du riz, garni de graines de sésame et d'oignons verts hachés."
+          ],
+          "de": [
+              "Mische in einer Schüssel Sojasoße, Sesamöl, Honig, Reisessig, Ingwer, Knoblauch und rote Pfefferflocken.",
+              "Lege das Rindfleisch in den Slow Cooker, gieße die Sauce darüber und vermische alles gut.",
+              "Abdecken und 4 Stunden langsam garen.",
+              "Vermische die Maisstärke mit 2 Esslöffeln Wasser, rühre es in den Slow Cooker ein und koche weitere 15 Minuten, um die Sauce zu verdicken.",
+              "Serviere über Reis, garniert mit Sesamsamen und gehackten Frühlingszwiebeln."
+          ],
+          "pt": [
+              "Numa tigela, misture o molho de soja, óleo de gergelim, mel, vinagre de arroz, gengibre, alho e pimenta vermelha em flocos.",
+              "Coloque a carne na panela de cozimento lento, despeje o molho sobre ela e misture bem.",
+              "Cubra e cozinhe em fogo baixo por 4 horas.",
+              "Misture o amido de milho com 2 colheres de sopa de água, adicione à panela de cozimento lento e cozinhe por mais 15 minutos para engrossar o molho.",
+              "Sirva sobre arroz, decorado com sementes de gergelim e cebolinha verde picada."
+          ]
+      },
+      "notes": "For added depth of flavor, consider marinating the beef in the sauce for a few hours before slow cooking.",
+      "tags": [
+          "Easy",
+          "Slow Cooker",
+          "Gluten Free",
+          "Dairy Free",
+          "Low Fat",
+          "High Protein",
+          "Asian Cuisine"
+      ]
   }
 ]
