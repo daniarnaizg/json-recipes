@@ -6937,5 +6937,2353 @@
           "Main",
           "Holiday"
       ]
+  },
+  {
+      "id": "redwinebraisedbeef1234",
+      "title": {
+          "en": "Red Wine Braised Beef",
+          "es": "Carne de res estofada al vino tinto",
+          "fr": "Bœuf braisé au vin rouge",
+          "de": "Roteswein-geschmortes Rindfleisch",
+          "pt": "Carne de Vaca Estufada com Vinho Tinto"
+      },
+      "description": {
+          "en": "Tender, flavorful beef slow-cooked in rich red wine for a hearty, comforting meal.",
+          "es": "Carne tierna y sabrosa cocida a fuego lento en vino tinto para una comida reconfortante y abundante.",
+          "fr": "Bœuf tendre et savoureux cuit lentement dans du vin rouge pour un repas copieux et réconfortant.",
+          "de": "Zartes, aromatisches Rindfleisch langsam in reichem Rotwein gekocht für eine herzhafte, wohltuende Mahlzeit.",
+          "pt": "Carne tenra e saborosa cozida lentamente em vinho tinto para uma refeição reconfortante e substancial."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 25,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 6,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 350,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Beef Chuck Roast",
+                  "quantity": "2.5",
+                  "measurementUnit": "pounds"
+              },
+              {
+                  "name": "Red Wine",
+                  "quantity": "2",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Beef Broth",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "large, sliced"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "4",
+                  "measurementUnit": "cloves, minced"
+              },
+              {
+                  "name": "Carrots",
+                  "quantity": "3",
+                  "measurementUnit": "medium, chopped"
+              },
+              {
+                  "name": "Thyme",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon, fresh"
+              },
+              {
+                  "name": "Bay Leaves",
+                  "quantity": "2",
+                  "measurementUnit": "dried"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Black Pepper",
+                  "quantity": "1/2",
+                  "measurementUnit": "teaspoon"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Carne de Res para Estofar",
+                  "quantity": "1.2",
+                  "measurementUnit": "kilogramos"
+              },
+              {
+                  "name": "Vino Tinto",
+                  "quantity": "475",
+                  "measurementUnit": "mililitros"
+              },
+              {
+                  "name": "Caldo de Res",
+                  "quantity": "240",
+                  "measurementUnit": "mililitros"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "grande, en rodajas"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "4",
+                  "measurementUnit": "dientes, picados"
+              },
+              {
+                  "name": "Zanahorias",
+                  "quantity": "3",
+                  "measurementUnit": "medianas, picadas"
+              },
+              {
+                  "name": "Tomillo",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada, fresco"
+              },
+              {
+                  "name": "Hojas de Laurel",
+                  "quantity": "2",
+                  "measurementUnit": "secas"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Pimienta Negra",
+                  "quantity": "1/2",
+                  "measurementUnit": "cucharadita"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Rôti de Bœuf à Braiser",
+                  "quantity": "1.2",
+                  "measurementUnit": "kilogramme"
+              },
+              {
+                  "name": "Vin Rouge",
+                  "quantity": "475",
+                  "measurementUnit": "millilitres"
+              },
+              {
+                  "name": "Bouillon de Bœuf",
+                  "quantity": "240",
+                  "measurementUnit": "millilitres"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "gros, tranché"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "4",
+                  "measurementUnit": "gousses, hachées"
+              },
+              {
+                  "name": "Carottes",
+                  "quantity": "3",
+                  "measurementUnit": "moyennes, hachées"
+              },
+              {
+                  "name": "Thym",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe, frais"
+              },
+              {
+                  "name": "Feuilles de Laurier",
+                  "quantity": "2",
+                  "measurementUnit": "séchées"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Poivre Noir",
+                  "quantity": "1/2",
+                  "measurementUnit": "cuillère à café"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Rinderbraten zum Schmoren",
+                  "quantity": "1.2",
+                  "measurementUnit": "Kilogramm"
+              },
+              {
+                  "name": "Rotwein",
+                  "quantity": "475",
+                  "measurementUnit": "Milliliter"
+              },
+              {
+                  "name": "Rinderbrühe",
+                  "quantity": "240",
+                  "measurementUnit": "Milliliter"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "groß, in Scheiben geschnitten"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "4",
+                  "measurementUnit": "Zehen, gehackt"
+              },
+              {
+                  "name": "Möhren",
+                  "quantity": "3",
+                  "measurementUnit": "mittel, gehackt"
+              },
+              {
+                  "name": "Thymian",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel, frisch"
+              },
+              {
+                  "name": "Lorbeerblätter",
+                  "quantity": "2",
+                  "measurementUnit": "getrocknet"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "1/2",
+                  "measurementUnit": "Teelöffel"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Carne de Vaca para Estufar",
+                  "quantity": "1.2",
+                  "measurementUnit": "quilogramas"
+              },
+              {
+                  "name": "Vinho Tinto",
+                  "quantity": "475",
+                  "measurementUnit": "mililitros"
+              },
+              {
+                  "name": "Caldo de Vaca",
+                  "quantity": "240",
+                  "measurementUnit": "mililitros"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "grande, em rodelas"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "4",
+                  "measurementUnit": "dentes, picados"
+              },
+              {
+                  "name": "Cenouras",
+                  "quantity": "3",
+                  "measurementUnit": "médias, picadas"
+              },
+              {
+                  "name": "Tomilho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa, fresco"
+              },
+              {
+                  "name": "Folhas de Louro",
+                  "quantity": "2",
+                  "measurementUnit": "secas"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Pimenta Preta",
+                  "quantity": "1/2",
+                  "measurementUnit": "colher de chá"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Season the beef with salt and pepper.",
+              "Heat a pan over medium-high heat, sear the beef until browned on all sides. Transfer to the slow cooker.",
+              "In the same pan, sauté the onions and garlic until softened. Add to the slow cooker.",
+              "Pour red wine and beef broth into the slow cooker. Add carrots, thyme, bay leaves.",
+              "Cover and cook on low for 6 hours or until beef is tender.",
+              "Serve the beef with the vegetables and a drizzle of the reduced cooking liquid."
+          ],
+          "es": [
+              "Sazona la carne con sal y pimienta.",
+              "Calienta una sartén a fuego medio-alto, sella la carne hasta que esté dorada por todos lados. Transfiere a la olla de cocción lenta.",
+              "En la misma sartén, saltea las cebollas y el ajo hasta que estén suaves. Agrega a la olla de cocción lenta.",
+              "Vierte vino tinto y caldo de res en la olla de cocción lenta. Añade zanahorias, tomillo, hojas de laurel.",
+              "Cubre y cocina a fuego lento durante 6 horas o hasta que la carne esté tierna.",
+              "Sirve la carne con las verduras y un chorrito del líquido reducido de cocción."
+          ],
+          "fr": [
+              "Assaisonnez le bœuf avec du sel et du poivre.",
+              "Chauffez une poêle à feu moyen-élevé, faites dorer le bœuf de tous côtés. Transférez dans la mijoteuse.",
+              "Dans la même poêle, faites revenir les oignons et l'ail jusqu'à ce qu'ils ramollissent. Ajoutez à la mijoteuse.",
+              "Versez le vin rouge et le bouillon de bœuf dans la mijoteuse. Ajoutez les carottes, le thym et les feuilles de laurier.",
+              "Couvrez et faites cuire à feu doux pendant 6 heures ou jusqu'à ce que le bœuf soit tendre.",
+              "Servez le bœuf avec les légumes et un filet du liquide de cuisson réduit."
+          ],
+          "de": [
+              "Würze das Rindfleisch mit Salz und Pfeffer.",
+              "Erhitze eine Pfanne bei mittlerer bis hoher Hitze, brate das Rindfleisch von allen Seiten an, bis es braun ist. Gib es in den Slow Cooker.",
+              "In derselben Pfanne das Zwiebeln und Knoblauch anschwitzen, bis sie weich sind. In den Slow Cooker geben.",
+              "Rotwein und Rinderbrühe in den Slow Cooker gießen. Karotten, Thymian und Lorbeerblätter hinzufügen.",
+              "Abdecken und 6 Stunden auf niedriger Stufe garen oder bis das Rindfleisch zart ist.",
+              "Serviere das Rindfleisch mit dem Gemüse und einem Schuss des reduzierten Kochliquids."
+          ],
+          "pt": [
+              "Tempere a carne com sal e pimenta.",
+              "Aqueça uma frigideira em fogo médio-alto, doure a carne de todos os lados. Transfira para a panela de cozimento lento.",
+              "Na mesma frigideira, refogue a cebola e o alho até ficarem macios. Adicione à panela de cozimento lento.",
+              "Despeje o vinho tinto e o caldo de carne na panela de cozimento lento. Adicione cenouras, tomilho, folhas de louro.",
+              "Cubra e cozinhe em fogo baixo por 6 horas ou até a carne ficar macia.",
+              "Sirva a carne com os legumes e um fio do líquido reduzido do cozimento."
+          ]
+      },
+      "notes": "For an even richer flavor, marinate the beef in red wine and herbs overnight before cooking.",
+      "tags": [
+          "Comfort",
+          "Slow Cooker",
+          "Hearty",
+          "Dinner",
+          "Festive",
+          "Gourmet",
+          "Make Ahead"
+      ]
+  },
+  {
+      "id": "jambalaya4268",
+      "title": {
+          "en": "Slow Cooker Jambalaya",
+          "es": "Jambalaya de Olla Lenta",
+          "fr": "Jambalaya à la mijoteuse",
+          "de": "Slow Cooker Jambalaya",
+          "pt": "Jambalaya na Panela Lenta"
+      },
+      "description": {
+          "en": "A flavorful slow cooker jambalaya, packed with spices, meats, and vegetables, creating a delightful one-pot meal.",
+          "es": "Un sabroso jambalaya cocinado lentamente, lleno de especias, carnes y verduras, creando una deliciosa comida en una sola olla.",
+          "fr": "Un jambalaya savoureux cuit lentement, plein d'épices, de viandes et de légumes, créant un délicieux plat en une seule marmite.",
+          "de": "Ein aromatisches Slow Cooker Jambalaya, voller Gewürze, Fleisch und Gemüse, für ein köstliches Gericht aus einem Topf.",
+          "pt": "Um jambalaya saboroso feito lentamente, repleto de especiarias, carnes e legumes, criando uma refeição deliciosa em uma única panela."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 25,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 350,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Andouille sausage",
+                  "quantity": "12",
+                  "measurementUnit": "ounces"
+              },
+              {
+                  "name": "Chicken breasts",
+                  "quantity": "2",
+                  "measurementUnit": "cups, diced"
+              },
+              {
+                  "name": "Shrimp",
+                  "quantity": "1",
+                  "measurementUnit": "pound, peeled and deveined"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "cup, chopped"
+              },
+              {
+                  "name": "Bell pepper",
+                  "quantity": "1",
+                  "measurementUnit": "cup, chopped"
+              },
+              {
+                  "name": "Celery",
+                  "quantity": "1",
+                  "measurementUnit": "cup, chopped"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "3",
+                  "measurementUnit": "cloves, minced"
+              },
+              {
+                  "name": "Tomatoes",
+                  "quantity": "2",
+                  "measurementUnit": "cups, diced"
+              },
+              {
+                  "name": "Rice",
+                  "quantity": "1",
+                  "measurementUnit": "cup, uncooked"
+              },
+              {
+                  "name": "Chicken broth",
+                  "quantity": "3",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Cajun seasoning",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Thyme",
+                  "quantity": "1/2",
+                  "measurementUnit": "teaspoon, dried"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Green onions",
+                  "quantity": "1/4",
+                  "measurementUnit": "cup, chopped"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Salchicha Andouille",
+                  "quantity": "340",
+                  "measurementUnit": "gramos"
+              },
+              {
+                  "name": "Pechugas de pollo",
+                  "quantity": "2",
+                  "measurementUnit": "tazas, en cubos"
+              },
+              {
+                  "name": "Camarones",
+                  "quantity": "450",
+                  "measurementUnit": "gramos, pelados y desvenados"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "taza, picada"
+              },
+              {
+                  "name": "Pimiento",
+                  "quantity": "1",
+                  "measurementUnit": "taza, picado"
+              },
+              {
+                  "name": "Apio",
+                  "quantity": "1",
+                  "measurementUnit": "taza, picado"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "3",
+                  "measurementUnit": "dientes, picados"
+              },
+              {
+                  "name": "Tomates",
+                  "quantity": "2",
+                  "measurementUnit": "tazas, en cubos"
+              },
+              {
+                  "name": "Arroz",
+                  "quantity": "1",
+                  "measurementUnit": "taza, sin cocinar"
+              },
+              {
+                  "name": "Caldo de pollo",
+                  "quantity": "3",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Condimento Cajún",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Tomillo",
+                  "quantity": "1/2",
+                  "measurementUnit": "cucharadita, seco"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Cebollas verdes",
+                  "quantity": "1/4",
+                  "measurementUnit": "taza, picada"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Saucisse andouille",
+                  "quantity": "340",
+                  "measurementUnit": "grammes"
+              },
+              {
+                  "name": "Blancs de poulet",
+                  "quantity": "2",
+                  "measurementUnit": "tasses, coupés en dés"
+              },
+              {
+                  "name": "Crevettes",
+                  "quantity": "450",
+                  "measurementUnit": "grammes, pelées et déveinées"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "tasse, haché"
+              },
+              {
+                  "name": "Poivron",
+                  "quantity": "1",
+                  "measurementUnit": "tasse, haché"
+              },
+              {
+                  "name": "Céleri",
+                  "quantity": "1",
+                  "measurementUnit": "tasse, haché"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "3",
+                  "measurementUnit": "gousses, hachées"
+              },
+              {
+                  "name": "Tomates",
+                  "quantity": "2",
+                  "measurementUnit": "tasses, coupées en dés"
+              },
+              {
+                  "name": "Riz",
+                  "quantity": "1",
+                  "measurementUnit": "tasse, non cuit"
+              },
+              {
+                  "name": "Bouillon de poulet",
+                  "quantity": "3",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Assaisonnement cajun",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Thym",
+                  "quantity": "1/2",
+                  "measurementUnit": "cuillère à café, séché"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Oignons verts",
+                  "quantity": "1/4",
+                  "measurementUnit": "tasse, haché"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Andouille-Wurst",
+                  "quantity": "340",
+                  "measurementUnit": "Gramm"
+              },
+              {
+                  "name": "Hähnchenbrust",
+                  "quantity": "2",
+                  "measurementUnit": "Tassen, gewürfelt"
+              },
+              {
+                  "name": "Garnelen",
+                  "quantity": "450",
+                  "measurementUnit": "Gramm, geschält und entdarmt"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse, gehackt"
+              },
+              {
+                  "name": "Paprika",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse, gehackt"
+              },
+              {
+                  "name": "Sellerie",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse, gehackt"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "3",
+                  "measurementUnit": "Zehen, gehackt"
+              },
+              {
+                  "name": "Tomaten",
+                  "quantity": "2",
+                  "measurementUnit": "Tassen, gewürfelt"
+              },
+              {
+                  "name": "Reis",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse, ungekocht"
+              },
+              {
+                  "name": "Hühnerbrühe",
+                  "quantity": "3",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Cajun-Gewürz",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Thymian",
+                  "quantity": "1/2",
+                  "measurementUnit": "Teelöffel, getrocknet"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Frühlingszwiebeln",
+                  "quantity": "1/4",
+                  "measurementUnit": "Tasse, gehackt"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Linguiça Andouille",
+                  "quantity": "340",
+                  "measurementUnit": "gramas"
+              },
+              {
+                  "name": "Peitos de frango",
+                  "quantity": "2",
+                  "measurementUnit": "xícaras, em cubos"
+              },
+              {
+                  "name": "Camarão",
+                  "quantity": "450",
+                  "measurementUnit": "gramas, descascado e limpo"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "xícara, picada"
+              },
+              {
+                  "name": "Pimentão",
+                  "quantity": "1",
+                  "measurementUnit": "xícara, picado"
+              },
+              {
+                  "name": "Aipo",
+                  "quantity": "1",
+                  "measurementUnit": "xícara, picado"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "3",
+                  "measurementUnit": "dentes, picados"
+              },
+              {
+                  "name": "Tomates",
+                  "quantity": "2",
+                  "measurementUnit": "xícaras, em cubos"
+              },
+              {
+                  "name": "Arroz",
+                  "quantity": "1",
+                  "measurementUnit": "xícara, cru"
+              },
+              {
+                  "name": "Caldo de galinha",
+                  "quantity": "3",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Tempero Cajun",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Tomilho",
+                  "quantity": "1/2",
+                  "measurementUnit": "colher de chá, seco"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Cebolinha verde",
+                  "quantity": "1/4",
+                  "measurementUnit": "xícara, picada"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "Slice the sausage and dice the chicken. Add them to the slow cooker.",
+              "Add the shrimp, onion, bell pepper, celery, garlic, tomatoes, rice, chicken broth, Cajun seasoning, thyme, salt, and pepper. Stir well.",
+              "Cover and cook on low for 4 hours or until the rice is tender and the meats are thoroughly cooked.",
+              "Before serving, stir in chopped green onions for added freshness."
+          ],
+          "es": [
+              "Corta la salchicha y corta el pollo en cubos. Agrégalos a la olla lenta.",
+              "Añade los camarones, cebolla, pimiento, apio, ajo, tomate, arroz, caldo de pollo, condimento cajún, tomillo, sal y pimienta. Mezcla bien.",
+              "Cubre y cocina a fuego lento durante 4 horas o hasta que el arroz esté tierno y las carnes estén bien cocidas.",
+              "Antes de servir, agrega cebollas verdes picadas para añadir frescura."
+          ],
+          "fr": [
+              "Tranchez la saucisse et coupez le poulet en dés. Ajoutez-les à la mijoteuse.",
+              "Ajoutez les crevettes, l'oignon, le poivron, le céleri, l'ail, les tomates, le riz, le bouillon de poulet, l'assaisonnement cajun, le thym, le sel et le poivre. Bien mélanger.",
+              "Couvrez et laissez cuire à feu doux pendant 4 heures ou jusqu'à ce que le riz soit tendre et que les viandes soient bien cuites.",
+              "Avant de servir, ajoutez les oignons verts hachés pour plus de fraîcheur."
+          ],
+          "de": [
+              "Die Wurst in Scheiben schneiden und das Hähnchen würfeln. Beides in den Slow Cooker geben.",
+              "Garnelen, Zwiebel, Paprika, Sellerie, Knoblauch, Tomaten, Reis, Hühnerbrühe, Cajun-Gewürz, Thymian, Salz und Pfeffer hinzufügen. Gut umrühren.",
+              "Abdecken und 4 Stunden lang auf niedriger Stufe garen, bis der Reis weich ist und das Fleisch gut durchgekocht ist.",
+              "Vor dem Servieren gehackte Frühlingszwiebeln unterrühren, um Frische hinzuzufügen."
+          ],
+          "pt": [
+              "Corte a linguiça em rodelas e o frango em cubos. Adicione-os à panela lenta.",
+              "Adicione o camarão, cebola, pimentão, aipo, alho, tomate, arroz, caldo de galinha, tempero cajun, tomilho, sal e pimenta. Mexa bem.",
+              "Cubra e cozinhe em fogo baixo por 4 horas ou até que o arroz esteja macio e as carnes estejam bem cozidas.",
+              "Antes de servir, misture as cebolinhas verdes picadas para dar um toque de frescor."
+          ]
+      },
+      "notes": "For added spice, consider adding a pinch of cayenne pepper or hot sauce. Adjust seasoning based on personal preferences.",
+      "tags": [
+          "Easy",
+          "Slow Cooker",
+          "One Pot",
+          "Spicy",
+          "Main",
+          "Comfort",
+          "International"
+      ]
+  },
+  {
+      "id": "moroccanlamb3489",
+      "title": {
+          "en": "Moroccan Lamb Stew",
+          "es": "Estofado de Cordero Marroquí",
+          "fr": "Ragoût d'Agneau Marocain",
+          "de": "Marokkanischer Lamm-Eintopf",
+          "pt": "Ensopado de Cordeiro Marroquino"
+      },
+      "description": {
+          "en": "A fragrant and hearty Moroccan lamb stew slow-cooked to tender perfection with an array of spices and vegetables.",
+          "es": "Un estofado de cordero marroquí fragante y abundante cocido a fuego lento hasta la perfección con una variedad de especias y verduras.",
+          "fr": "Un ragoût d'agneau marocain parfumé et copieux, cuit lentement pour une tendreté parfaite avec un mélange d'épices et de légumes.",
+          "de": "Ein duftender und herzhafter marokkanischer Lamm-Eintopf, langsam gegart, bis er perfekt zart ist, mit einer Vielzahl von Gewürzen und Gemüse.",
+          "pt": "Um ensopado de cordeiro marroquino perfumado e robusto, cozido lentamente até a perfeição com uma variedade de especiarias e legumes."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 25,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 6,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 380,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Lamb, stew meat",
+                  "quantity": "1.2",
+                  "measurementUnit": "kg"
+              },
+              {
+                  "name": "Onions, chopped",
+                  "quantity": "2",
+                  "measurementUnit": "large"
+              },
+              {
+                  "name": "Garlic cloves, minced",
+                  "quantity": "4",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Carrots, sliced",
+                  "quantity": "3",
+                  "measurementUnit": "large"
+              },
+              {
+                  "name": "Dried apricots",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Canned chickpeas, drained",
+                  "quantity": "1",
+                  "measurementUnit": "can (400g)"
+              },
+              {
+                  "name": "Vegetable broth",
+                  "quantity": "3",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Tomato paste",
+                  "quantity": "3",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Ground cumin",
+                  "quantity": "2",
+                  "measurementUnit": "teaspoons"
+              },
+              {
+                  "name": "Ground cinnamon",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Ground ginger",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Ground turmeric",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Salt and pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Fresh cilantro, chopped",
+                  "quantity": "for garnish",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Cordero, carne de estofado",
+                  "quantity": "1.2",
+                  "measurementUnit": "kg"
+              },
+              {
+                  "name": "Cebollas, picadas",
+                  "quantity": "2",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Dientes de ajo, picados",
+                  "quantity": "4",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Zanahorias, en rodajas",
+                  "quantity": "3",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Albaricoques secos",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Garbanzos enlatados, escurridos",
+                  "quantity": "1",
+                  "measurementUnit": "lata (400g)"
+              },
+              {
+                  "name": "Caldo de verduras",
+                  "quantity": "3",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Pasta de tomate",
+                  "quantity": "3",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Comino molido",
+                  "quantity": "2",
+                  "measurementUnit": "cucharaditas"
+              },
+              {
+                  "name": "Canela molida",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Jengibre molido",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Cúrcuma molida",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Sal y pimienta",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Cilantro fresco, picado",
+                  "quantity": "para decorar",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Agneau, viande à ragoût",
+                  "quantity": "1.2",
+                  "measurementUnit": "kg"
+              },
+              {
+                  "name": "Oignons, hachés",
+                  "quantity": "2",
+                  "measurementUnit": "gros"
+              },
+              {
+                  "name": "Gousses d'ail, hachées",
+                  "quantity": "4",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Carottes, tranchées",
+                  "quantity": "3",
+                  "measurementUnit": "grosses"
+              },
+              {
+                  "name": "Abricots séchés",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Pois chiches en conserve, égouttés",
+                  "quantity": "1",
+                  "measurementUnit": "boîte (400g)"
+              },
+              {
+                  "name": "Bouillon de légumes",
+                  "quantity": "3",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Concentré de tomate",
+                  "quantity": "3",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Cumin moulu",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à café"
+              },
+              {
+                  "name": "Cannelle moulue",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Gingembre moulu",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Curcuma moulu",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Sel et poivre",
+                  "quantity": "selon le goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Coriandre fraîche, hachée",
+                  "quantity": "pour la garniture",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Lamm, Eintopffleisch",
+                  "quantity": "1,2",
+                  "measurementUnit": "kg"
+              },
+              {
+                  "name": "Zwiebeln, gehackt",
+                  "quantity": "2",
+                  "measurementUnit": "große"
+              },
+              {
+                  "name": "Knoblauchzehen, gehackt",
+                  "quantity": "4",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Karotten, in Scheiben geschnitten",
+                  "quantity": "3",
+                  "measurementUnit": "große"
+              },
+              {
+                  "name": "Getrocknete Aprikosen",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Kichererbsen aus der Dose, abgetropft",
+                  "quantity": "1",
+                  "measurementUnit": "Dose (400g)"
+              },
+              {
+                  "name": "Gemüsebrühe",
+                  "quantity": "3",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Tomatenmark",
+                  "quantity": "3",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Gemahlener Kreuzkümmel",
+                  "quantity": "2",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Gemahlener Zimt",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Gemahlener Ingwer",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Gemahlener Kurkuma",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Salz und Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Frische Korianderblätter, gehackt",
+                  "quantity": "zum Garnieren",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Cordeiro, carne de ensopado",
+                  "quantity": "1,2",
+                  "measurementUnit": "kg"
+              },
+              {
+                  "name": "Cebolas, picadas",
+                  "quantity": "2",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Dentes de alho, picados",
+                  "quantity": "4",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Cenouras, em rodelas",
+                  "quantity": "3",
+                  "measurementUnit": "grandes"
+              },
+              {
+                  "name": "Damas secas",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Grão-de-bico enlatado, escorrido",
+                  "quantity": "1",
+                  "measurementUnit": "lata (400g)"
+              },
+              {
+                  "name": "Caldo de legumes",
+                  "quantity": "3",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Extrato de tomate",
+                  "quantity": "3",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Cominho moído",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de chá"
+              },
+              {
+                  "name": "Canela em pó",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Gengibre em pó",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Açafrão-da-terra em pó",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Sal e pimenta",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Coentro fresco picado",
+                  "quantity": "para guarnecer",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a slow cooker, place lamb, onions, garlic, carrots, dried apricots, chickpeas, vegetable broth, tomato paste, cumin, cinnamon, ginger, turmeric, salt, and pepper.",
+              "Cover and cook on low for 6 hours or until lamb is tender.",
+              "Garnish with fresh cilantro before serving."
+          ],
+          "es": [
+              "En una olla de cocción lenta, coloca el cordero, cebollas, ajo, zanahorias, albaricoques secos, garbanzos, caldo de verduras, pasta de tomate, comino, canela, jengibre, cúrcuma, sal y pimienta.",
+              "Cubre y cocina a fuego lento durante 6 horas o hasta que el cordero esté tierno.",
+              "Decora con cilantro fresco antes de servir."
+          ],
+          "fr": [
+              "Dans une cocotte minute, ajoutez l'agneau, les oignons, l'ail, les carottes, les abricots secs, les pois chiches, le bouillon de légumes, la pâte de tomates, le cumin, la cannelle, le gingembre, le curcuma, le sel et le poivre.",
+              "Couvrez et laissez cuire à feu doux pendant 6 heures ou jusqu'à ce que l'agneau soit tendre.",
+              "Parsemez de coriandre fraîche avant de servir."
+          ],
+          "de": [
+              "In einem Schongarer das Lammfleisch, Zwiebeln, Knoblauch, Karotten, getrocknete Aprikosen, Kichererbsen, Gemüsebrühe, Tomatenmark, Kreuzkümmel, Zimt, Ingwer, Kurkuma, Salz und Pfeffer hinzufügen.",
+              "Abdecken und 6 Stunden lang auf niedriger Stufe garen, bis das Lammfleisch zart ist.",
+              "Vor dem Servieren mit frischem Koriander garnieren."
+          ],
+          "pt": [
+              "Em uma panela de cozimento lento, coloque o cordeiro, cebolas, alho, cenouras, damascos secos, grão-de-bico, caldo de legumes, extrato de tomate, cominho, canela, gengibre, açafrão-da-terra, sal e pimenta.",
+              "Cubra e cozinhe em fogo baixo por 6 horas ou até que o cordeiro esteja macio.",
+              "Decore com coentro fresco antes de servir."
+          ]
+      },
+      "notes": "For a thicker stew, mix a tablespoon of flour with water and stir it into the slow cooker 30 minutes before the cooking is done.",
+      "tags": [
+          "Slow Cooker",
+          "Hearty",
+          "One Pot",
+          "Comfort",
+          "Dinner",
+          "International",
+          "Festive"
+      ]
+  },
+  {
+      "id": "chickendumplings1234",
+      "title": {
+          "en": "Chicken and Dumplings",
+          "es": "Pollo y Dumplings",
+          "fr": "Poulet et Boulettes",
+          "de": "Hühnchen und Knödel",
+          "pt": "Frango com Bolinhos"
+      },
+      "description": {
+          "en": "A comforting slow-cooked meal of tender chicken and fluffy dumplings in a flavorful broth.",
+          "es": "Una reconfortante comida cocinada a fuego lento con pollo tierno y bolitas de masa en un caldo sabroso.",
+          "fr": "Un repas réconfortant cuit lentement avec du poulet tendre et des boulettes moelleuses dans un bouillon savoureux.",
+          "de": "Ein tröstliches langsam gekochtes Mahl aus zartem Hühnchen und fluffigen Knödeln in einer geschmackvollen Brühe.",
+          "pt": "Uma refeição reconfortante cozida lentamente, com frango macio e bolinhos fofos em um caldo saboroso."
+      },
+      "image": "",
+      "servings": 6,
+      "prepTime": {
+          "number": 20,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 320,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Chicken thighs",
+                  "quantity": "6",
+                  "measurementUnit": "pieces"
+              },
+              {
+                  "name": "Carrots",
+                  "quantity": "2",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Celery",
+                  "quantity": "2",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Onion",
+                  "quantity": "1",
+                  "measurementUnit": "medium"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "3",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Thyme",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Bay leaves",
+                  "quantity": "2",
+                  "measurementUnit": "pieces"
+              },
+              {
+                  "name": "Chicken broth",
+                  "quantity": "4",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "All-purpose flour",
+                  "quantity": "1.5",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Baking powder",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "1/2",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Milk",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Frozen peas",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              }
+          ],
+          "es": [
+              {
+                  "name": "Muslos de pollo",
+                  "quantity": "6",
+                  "measurementUnit": "piezas"
+              },
+              {
+                  "name": "Zanahorias",
+                  "quantity": "2",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Apio",
+                  "quantity": "2",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Cebolla",
+                  "quantity": "1",
+                  "measurementUnit": "mediana"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "3",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Tomillo",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Hojas de laurel",
+                  "quantity": "2",
+                  "measurementUnit": "piezas"
+              },
+              {
+                  "name": "Caldo de pollo",
+                  "quantity": "4",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Harina de trigo",
+                  "quantity": "1.5",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Polvo de hornear",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "1/2",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Leche",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Guisantes congelados",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Cuisses de poulet",
+                  "quantity": "6",
+                  "measurementUnit": "pièces"
+              },
+              {
+                  "name": "Carottes",
+                  "quantity": "2",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Céleri",
+                  "quantity": "2",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Oignon",
+                  "quantity": "1",
+                  "measurementUnit": "moyen"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "3",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Thym",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Feuilles de laurier",
+                  "quantity": "2",
+                  "measurementUnit": "pièces"
+              },
+              {
+                  "name": "Bouillon de poulet",
+                  "quantity": "4",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Farine tout usage",
+                  "quantity": "1.5",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Levure chimique",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "1/2",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Lait",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Petits pois surgelés",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              }
+          ],
+          "de": [
+              {
+                  "name": "Hähnchenschenkel",
+                  "quantity": "6",
+                  "measurementUnit": "Stücke"
+              },
+              {
+                  "name": "Möhren",
+                  "quantity": "2",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Sellerie",
+                  "quantity": "2",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Zwiebel",
+                  "quantity": "1",
+                  "measurementUnit": "mittelgroß"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "3",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Thymian",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Lorbeerblätter",
+                  "quantity": "2",
+                  "measurementUnit": "Stücke"
+              },
+              {
+                  "name": "Hühnerbrühe",
+                  "quantity": "4",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Mehl",
+                  "quantity": "1.5",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Backpulver",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "1/2",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Milch",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Gefrorene Erbsen",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Coxas de frango",
+                  "quantity": "6",
+                  "measurementUnit": "unidades"
+              },
+              {
+                  "name": "Cenouras",
+                  "quantity": "2",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Aipo",
+                  "quantity": "2",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Cebola",
+                  "quantity": "1",
+                  "measurementUnit": "média"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "3",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Tomilho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Folhas de louro",
+                  "quantity": "2",
+                  "measurementUnit": "unidades"
+              },
+              {
+                  "name": "Caldo de galinha",
+                  "quantity": "4",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Farinha de trigo",
+                  "quantity": "1.5",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Fermento em pó",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "1/2",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Leite",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Ervilhas congeladas",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In the slow cooker, combine chicken, carrots, celery, onion, garlic, thyme, bay leaves, and chicken broth. Cook on high for 3 hours.",
+              "In a bowl, mix flour, baking powder, and salt. Add milk and stir until a soft dough forms.",
+              "Drop spoonfuls of the dough into the slow cooker. Add frozen peas. Cook for an additional hour.",
+              "Remove bay leaves. Shred the chicken. Serve the stew with dumplings."
+          ],
+          "es": [
+              "En la olla de cocción lenta, combina pollo, zanahorias, apio, cebolla, ajo, tomillo, hojas de laurel y caldo de pollo. Cocina a fuego alto durante 3 horas.",
+              "En un tazón, mezcla harina, polvo de hornear y sal. Agrega leche y revuelve hasta que se forme una masa suave.",
+              "Coloca cucharadas de masa en la olla de cocción lenta. Agrega los guisantes congelados. Cocina durante una hora adicional.",
+              "Retira las hojas de laurel. Desmenuza el pollo. Sirve el guiso con los bollos de masa."
+          ],
+          "fr": [
+              "Dans la mijoteuse, mélangez le poulet, les carottes, le céleri, l'oignon, l'ail, le thym, les feuilles de laurier et le bouillon de poulet. Cuisez à feu vif pendant 3 heures.",
+              "Dans un bol, mélangez la farine, la levure chimique et le sel. Ajoutez le lait et remuez jusqu'à obtenir une pâte molle.",
+              "Déposez des cuillerées de pâte dans la mijoteuse. Ajoutez les petits pois surgelés. Cuisez pendant une heure supplémentaire.",
+              "Retirez les feuilles de laurier. Effilochez le poulet. Servez le ragoût avec les boulettes."
+          ],
+          "de": [
+              "Kombiniere in dem Slow Cooker Hähnchen, Möhren, Sellerie, Zwiebel, Knoblauch, Thymian, Lorbeerblätter und Hühnerbrühe. Koche für 3 Stunden auf hoher Stufe.",
+              "Vermische in einer Schüssel Mehl, Backpulver und Salz. Füge Milch hinzu und rühre, bis ein weicher Teig entsteht.",
+              "Gebe Teelöffel des Teigs in den Slow Cooker. Füge gefrorene Erbsen hinzu. Koche eine weitere Stunde.",
+              "Entferne die Lorbeerblätter."
+          ],
+          "pt": [
+              "Na panela elétrica, misture frango, cenouras, aipo, cebola, alho, tomilho, folhas de louro e caldo de galinha. Cozinhe em fogo alto por 3 horas.",
+              "Em uma tigela, misture farinha, fermento em pó e sal. Adicione leite e mexa até formar uma massa macia.",
+              "Coloque colheradas da massa na panela elétrica. Adicione as ervilhas congeladas. Cozinhe por mais uma hora.",
+              "Retire as folhas de louro. Desfie o frango. Sirva o ensopado com os bolinhos."
+          ]
+      },
+      "notes": "For a thicker stew, you can mix 2 tablespoons of cornstarch with water and add it to the slow cooker 30 minutes before the end of cooking.",
+      "tags": [
+          "Comfort",
+          "Slow Cooker",
+          "Hearty",
+          "One Pot",
+          "Dinner",
+          "Meal Prep"
+      ]
+  },
+  {
+      "id": "spicyorange4567",
+      "title": {
+          "en": "Spicy Orange Glazed Meatballs",
+          "es": "Albóndigas a la Naranja Picantes",
+          "fr": "Boulettes de viande épicées à l'orange",
+          "de": "Scharfe Orangen-Fleischbällchen",
+          "pt": "Almôndegas Apimentadas com Laranja"
+      },
+      "description": {
+          "en": "Tender meatballs infused with a zesty orange glaze and a kick of spice, prepared effortlessly in a slow cooker.",
+          "es": "Albóndigas tiernas con un glaseado de naranja picante, preparadas fácilmente en una olla de cocción lenta.",
+          "fr": "Des boulettes de viande tendres infusées d'un glaçage à l'orange zesté et relevées d'une pointe épicée, préparées sans effort dans une mijoteuse.",
+          "de": "Zarte Fleischbällchen mit einem würzigen Orangenglasur, mühelos im Slow Cooker zubereitet.",
+          "pt": "Almôndegas macias com um glacê de laranja picante, preparadas facilmente em uma panela de cozimento lento."
+      },
+      "image": "",
+      "servings": 4,
+      "prepTime": {
+          "number": 25,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 320,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Ground beef",
+                  "quantity": "500",
+                  "measurementUnit": "grams"
+              },
+              {
+                  "name": "Breadcrumbs",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Egg",
+                  "quantity": "1",
+                  "measurementUnit": "unit"
+              },
+              {
+                  "name": "Orange juice",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Soy sauce",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Honey",
+                  "quantity": "2",
+                  "measurementUnit": "tablespoons"
+              },
+              {
+                  "name": "Sriracha",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Garlic",
+                  "quantity": "2",
+                  "measurementUnit": "cloves"
+              },
+              {
+                  "name": "Ginger",
+                  "quantity": "1",
+                  "measurementUnit": "teaspoon"
+              },
+              {
+                  "name": "Green onions",
+                  "quantity": "2",
+                  "measurementUnit": "stalks"
+              },
+              {
+                  "name": "Cornstarch",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Sesame seeds",
+                  "quantity": "1",
+                  "measurementUnit": "tablespoon"
+              },
+              {
+                  "name": "Cooked rice or noodles",
+                  "quantity": "As needed",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Carne de res molida",
+                  "quantity": "500",
+                  "measurementUnit": "gramos"
+              },
+              {
+                  "name": "Pan rallado",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Huevo",
+                  "quantity": "1",
+                  "measurementUnit": "unidad"
+              },
+              {
+                  "name": "Jugo de naranja",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Salsa de soja",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Miel",
+                  "quantity": "2",
+                  "measurementUnit": "cucharadas"
+              },
+              {
+                  "name": "Sriracha",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Ajo",
+                  "quantity": "2",
+                  "measurementUnit": "dientes"
+              },
+              {
+                  "name": "Jengibre",
+                  "quantity": "1",
+                  "measurementUnit": "cucharadita"
+              },
+              {
+                  "name": "Cebollas verdes",
+                  "quantity": "2",
+                  "measurementUnit": "ramas"
+              },
+              {
+                  "name": "Maicena",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Semillas de sésamo",
+                  "quantity": "1",
+                  "measurementUnit": "cucharada"
+              },
+              {
+                  "name": "Arroz cocido o fideos",
+                  "quantity": "Según sea necesario",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Viande hachée",
+                  "quantity": "500",
+                  "measurementUnit": "grammes"
+              },
+              {
+                  "name": "Chapelure",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Œuf",
+                  "quantity": "1",
+                  "measurementUnit": "unité"
+              },
+              {
+                  "name": "Jus d'orange",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Sauce soja",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Miel",
+                  "quantity": "2",
+                  "measurementUnit": "cuillères à soupe"
+              },
+              {
+                  "name": "Sriracha",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Ail",
+                  "quantity": "2",
+                  "measurementUnit": "gousses"
+              },
+              {
+                  "name": "Gingembre",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à café"
+              },
+              {
+                  "name": "Oignons verts",
+                  "quantity": "2",
+                  "measurementUnit": "tiges"
+              },
+              {
+                  "name": "Maïzena",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Graines de sésame",
+                  "quantity": "1",
+                  "measurementUnit": "cuillère à soupe"
+              },
+              {
+                  "name": "Riz cuit ou nouilles",
+                  "quantity": "Selon les besoins",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Rinderhackfleisch",
+                  "quantity": "500",
+                  "measurementUnit": "Gramm"
+              },
+              {
+                  "name": "Paniermehl",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Ei",
+                  "quantity": "1",
+                  "measurementUnit": "Stück"
+              },
+              {
+                  "name": "Orangensaft",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Sojasoße",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Honig",
+                  "quantity": "2",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Sriracha",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Knoblauch",
+                  "quantity": "2",
+                  "measurementUnit": "Zehen"
+              },
+              {
+                  "name": "Ingwer",
+                  "quantity": "1",
+                  "measurementUnit": "Teelöffel"
+              },
+              {
+                  "name": "Frühlingszwiebeln",
+                  "quantity": "2",
+                  "measurementUnit": "Stück"
+              },
+              {
+                  "name": "Maisstärke",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Sesamsamen",
+                  "quantity": "1",
+                  "measurementUnit": "Esslöffel"
+              },
+              {
+                  "name": "Gekochter Reis oder Nudeln",
+                  "quantity": "Nach Bedarf",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Carne moída",
+                  "quantity": "500",
+                  "measurementUnit": "gramas"
+              },
+              {
+                  "name": "Farinha de rosca",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Ovo",
+                  "quantity": "1",
+                  "measurementUnit": "unidade"
+              },
+              {
+                  "name": "Suco de laranja",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Molho de soja",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Mel",
+                  "quantity": "2",
+                  "measurementUnit": "colheres de sopa"
+              },
+              {
+                  "name": "Sriracha",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Alho",
+                  "quantity": "2",
+                  "measurementUnit": "dentes"
+              },
+              {
+                  "name": "Gengibre",
+                  "quantity": "1",
+                  "measurementUnit": "colher de chá"
+              },
+              {
+                  "name": "Cebolinha verde",
+                  "quantity": "2",
+                  "measurementUnit": "talos"
+              },
+              {
+                  "name": "Amido de milho",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Sementes de gergelim",
+                  "quantity": "1",
+                  "measurementUnit": "colher de sopa"
+              },
+              {
+                  "name": "Arroz cozido ou macarrão",
+                  "quantity": "Conforme necessário",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a bowl, mix ground beef, breadcrumbs, egg, salt, and pepper. Form into meatballs.",
+              "Place the meatballs in the slow cooker.",
+              "In a separate bowl, combine orange juice, soy sauce, honey, Sriracha, garlic, and ginger. Pour over the meatballs.",
+              "Cook on low for 4 hours.",
+              "In the last 30 minutes, mix cornstarch with a tablespoon of water and add to the slow cooker to thicken the sauce.",
+              "Serve meatballs over cooked rice or noodles, garnished with green onions and sesame seeds."
+          ],
+          "es": [
+              "En un tazón, mezcla la carne de res, pan rallado, huevo, sal y pimienta. Forma albóndigas.",
+              "Coloca las albóndigas en la olla de cocción lenta.",
+              "En otro recipiente, combina jugo de naranja, salsa de soja, miel, Sriracha, ajo y jengibre. Vierte sobre las albóndigas.",
+              "Cocina a fuego lento durante 4 horas.",
+              "En los últimos 30 minutos, mezcla maicena con una cucharada de agua y agrega a la olla para espesar la salsa.",
+              "Sirve las albóndigas sobre arroz o fideos cocidos, adornadas con cebolla verde y semillas de sésamo."
+          ],
+          "fr": [
+              "Dans un bol, mélangez la viande hachée, la chapelure, l'œuf, le sel et le poivre. Formez des boulettes de viande.",
+              "Placez les boulettes de viande dans la mijoteuse.",
+              "Dans un autre bol, mélangez le jus d'orange, la sauce soja, le miel, la Sriracha, l'ail et le gingembre. Versez sur les boulettes de viande.",
+              "Cuisez à feu doux pendant 4 heures.",
+              "Pendant les 30 dernières minutes, mélangez la maïzena avec une cuillère à soupe d'eau et ajoutez à la mijoteuse pour épaissir la sauce.",
+              "Servez les boulettes de viande sur du riz ou des nouilles cuits, garnies d'oignons verts et de graines de sésame."
+          ],
+          "de": [
+              "Mische in einer Schüssel Rinderhackfleisch, Paniermehl, Ei, Salz und Pfeffer. Forme Fleisch bällchen daraus.",
+              "Lege die Fleischbällchen in den Slow Cooker.",
+              "In einer separaten Schüssel vermische Orangensaft, Sojasoße, Honig, Sriracha, Knoblauch und Ingwer. Gieße die Mischung über die Fleischbällchen.",
+              "Koche auf niedriger Stufe für 4 Stunden.",
+              "In den letzten 30 Minuten verrühre die Speisestärke mit einem Esslöffel Wasser und füge sie dem Slow Cooker hinzu, um die Sauce einzudicken.",
+              "Serviere die Fleischbällchen über gekochtem Reis oder Nudeln, garniert mit Frühlingszwiebeln und Sesamsamen."
+          ],
+          "pt": [
+              "Em uma tigela, misture a carne moída, a farinha de rosca, o ovo, o sal e a pimenta. Forme almôndegas.",
+              "Coloque as almôndegas na panela de cozimento lento.",
+              "Em outra tigela, misture o suco de laranja, molho de soja, mel, Sriracha, alho e gengibre. Despeje sobre as almôndegas.",
+              "Cozinhe em fogo baixo por 4 horas.",
+              "Nos últimos 30 minutos, misture o amido de milho com uma colher de sopa de água e adicione à panela para engrossar o molho.",
+              "Sirva as almôndegas sobre arroz ou macarrão cozido, decoradas com cebolinha verde e sementes de gergelim."
+          ]
+      },
+      "notes": "You can adjust the level of spiciness by varying the amount of Sriracha sauce.",
+      "tags": [
+          "Spicy",
+          "Slow Cooker",
+          "Main",
+          "Dinner",
+          "Easy",
+          "Asian",
+          "Comfort"
+      ]
+  },
+  {
+      "id": "creamypesto1234",
+      "title": {
+          "en": "Creamy Pesto Pasta",
+          "es": "Pasta cremosa al pesto",
+          "fr": "Pâtes crémeuses au pesto",
+          "de": "Cremige Pesto-Pasta",
+          "pt": "Macarrão cremoso ao pesto"
+      },
+      "description": {
+          "en": "Deliciously creamy pesto pasta cooked slowly to perfection in a crockpot, infused with rich flavors.",
+          "es": "Deliciosos fideos al pesto cremosos cocinados lentamente a la perfección en una olla de cocción lenta, impregnados de sabores ricos.",
+          "fr": "Des pâtes au pesto délicieusement crémeuses, cuites lentement à la perfection dans une mijoteuse, imprégnées de saveurs riches.",
+          "de": "Herrlich cremige Pesto-Pasta, langsam perfektioniert in einem Schongarer gekocht und mit reichen Aromen verfeinert.",
+          "pt": "Macarrão ao pesto deliciosamente cremoso, cozido lentamente na perfeição em uma panela elétrica, infundido com sabores ricos."
+      },
+      "image": "",
+      "servings": 4,
+      "prepTime": {
+          "number": 15,
+          "unit": "minutes"
+      },
+      "cookTime": {
+          "number": 4,
+          "unit": "hours"
+      },
+      "difficulty": {
+          "en": "medium",
+          "es": "medio",
+          "fr": "moyen",
+          "de": "mittel",
+          "pt": "médio"
+      },
+      "calPerServing": 380,
+      "ingredients": {
+          "en": [
+              {
+                  "name": "Pasta",
+                  "quantity": "300",
+                  "measurementUnit": "grams"
+              },
+              {
+                  "name": "Chicken or vegetable broth",
+                  "quantity": "3",
+                  "measurementUnit": "cups"
+              },
+              {
+                  "name": "Heavy cream",
+                  "quantity": "1",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Pesto",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Parmesan cheese (grated)",
+                  "quantity": "1/2",
+                  "measurementUnit": "cup"
+              },
+              {
+                  "name": "Salt",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Black pepper",
+                  "quantity": "to taste",
+                  "measurementUnit": ""
+              }
+          ],
+          "es": [
+              {
+                  "name": "Pasta",
+                  "quantity": "300",
+                  "measurementUnit": "gramos"
+              },
+              {
+                  "name": "Caldo de pollo o vegetales",
+                  "quantity": "3",
+                  "measurementUnit": "tazas"
+              },
+              {
+                  "name": "Crema espesa",
+                  "quantity": "1",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Pesto",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Queso parmesano (rallado)",
+                  "quantity": "1/2",
+                  "measurementUnit": "taza"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimienta negra",
+                  "quantity": "al gusto",
+                  "measurementUnit": ""
+              }
+          ],
+          "fr": [
+              {
+                  "name": "Pâtes",
+                  "quantity": "300",
+                  "measurementUnit": "grammes"
+              },
+              {
+                  "name": "Bouillon de poulet ou de légumes",
+                  "quantity": "3",
+                  "measurementUnit": "tasses"
+              },
+              {
+                  "name": "Crème épaisse",
+                  "quantity": "1",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Pesto",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Fromage parmesan (râpé)",
+                  "quantity": "1/2",
+                  "measurementUnit": "tasse"
+              },
+              {
+                  "name": "Sel",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Poivre noir",
+                  "quantity": "au goût",
+                  "measurementUnit": ""
+              }
+          ],
+          "de": [
+              {
+                  "name": "Nudeln",
+                  "quantity": "300",
+                  "measurementUnit": "Gramm"
+              },
+              {
+                  "name": "Hühner- oder Gemüsebrühe",
+                  "quantity": "3",
+                  "measurementUnit": "Tassen"
+              },
+              {
+                  "name": "Schlagsahne",
+                  "quantity": "1",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Pesto",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Parmesan (gerieben)",
+                  "quantity": "1/2",
+                  "measurementUnit": "Tasse"
+              },
+              {
+                  "name": "Salz",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Schwarzer Pfeffer",
+                  "quantity": "nach Geschmack",
+                  "measurementUnit": ""
+              }
+          ],
+          "pt": [
+              {
+                  "name": "Macarrão",
+                  "quantity": "300",
+                  "measurementUnit": "gramas"
+              },
+              {
+                  "name": "Caldo de galinha ou legumes",
+                  "quantity": "3",
+                  "measurementUnit": "xícaras"
+              },
+              {
+                  "name": "Creme de leite",
+                  "quantity": "1",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Pesto",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Queijo parmesão (ralado)",
+                  "quantity": "1/2",
+                  "measurementUnit": "xícara"
+              },
+              {
+                  "name": "Sal",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              },
+              {
+                  "name": "Pimenta preta",
+                  "quantity": "a gosto",
+                  "measurementUnit": ""
+              }
+          ]
+      },
+      "instructions": {
+          "en": [
+              "In a slow cooker, combine pasta and broth. Cook on low for 2-3 hours until pasta is al dente.",
+              "Stir in heavy cream, pesto, and parmesan. Season with salt and black pepper.",
+              "Cover and cook for an additional 30-60 minutes until creamy and heated through.",
+              "Serve hot, garnished with extra parmesan and fresh basil if desired."
+          ],
+          "es": [
+              "En una olla de cocción lenta, mezcla la pasta y el caldo. Cocina a fuego lento durante 2-3 horas hasta que la pasta esté al dente.",
+              "Agrega la crema, el pesto y el parmesano. Sazona con sal y pimienta negra.",
+              "Cubre y cocina durante 30-60 minutos adicionales hasta que esté cremoso y caliente.",
+              "Sirve caliente, adornado con más parmesano y albahaca fresca si lo deseas."
+          ],
+          "fr": [
+              "Dans une mijoteuse, mélangez les pâtes et le bouillon. Cuisez à feu doux pendant 2-3 heures jusqu'à ce que les pâtes soient al dente.",
+              "Incorporez la crème, le pesto et le parmesan. Assaisonnez avec du sel et du poivre noir.",
+              "Couvrez et faites cuire pendant 30 à 60 minutes supplémentaires jusqu'à ce que le mélange soit crémeux et bien chaud.",
+              "Servez chaud, garni de parmesan supplémentaire et de basilic frais si désiré."
+          ],
+          "de": [
+              "In einem Schongarer Nudeln und Brühe vermischen. 2-3 Stunden bei niedriger Hitze kochen, bis die Nudeln al dente sind.",
+              "Schlagsahne, Pesto und Parmesan einrühren. Mit Salz und schwarzem Pfeffer würzen.",
+              "Abdecken und weitere 30-60 Minuten kochen, bis die Mischung cremig und durchgewärmt ist.",
+              "Heiß servieren, nach Belieben mit extra Parmesan und frischem Basilikum garnieren."
+          ],
+          "pt": [
+              "Em uma panela elétrica, misture o macarrão e o caldo. Cozinhe em fogo baixo por 2-3 horas até que o macarrão fique al dente.",
+              "Adicione o creme de leite, o pesto e o queijo parmesão. Tempere com sal e pimenta preta.",
+              "Cubra e cozinhe por mais 30-60 minutos até que fique cremoso e aquecido.",
+              "Sirva quente, decorado com mais queijo parmesão e manjericão fresco, se desejar."
+          ]
+      },
+      "notes": "For a vegetarian option, use vegetable broth. Adjust the consistency by adding more cream for a creamier texture.",
+      "tags": [
+          "Slow Cooker",
+          "Pasta",
+          "Creamy",
+          "Easy",
+          "Vegetarian",
+          "Italian",
+          "Comfort"
+      ]
   }
 ]
