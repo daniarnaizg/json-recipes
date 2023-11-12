@@ -1,584 +1,585 @@
 [
- {
-  "id": "carnitas4321",
-  "title": {
-    "en": "Slow Cooker Carnitas",
-    "es": "Carnitas de Cocción Lenta",
-    "fr": "Carnitas à la mijoteuse",
-    "de": "Slow Cooker Carnitas",
-    "pt": "Carnitas de Forno Lento"
-  },
-  "description": {
-    "en": "Delicious slow-cooked pork, perfect for tacos or burritos.",
-    "es": "Delicioso cerdo cocinado lentamente, perfecto para tacos o burritos.",
-    "fr": "Délicieux porc cuit lentement, parfait pour les tacos ou les burritos.",
-    "de": "Köstliches langsam gekochtes Schweinefleisch, perfekt für Tacos oder Burritos.",
-    "pt": "Delicioso porco cozido lentamente, perfeito para tacos ou burritos."
-  },
-  "image": "",
-  "servings": 6,
-  "prepTime": "15 minutes",
-  "cookTime": "6 hours",
-  "totalTime": "6 hours 15 minutes",
-  "difficulty": {
-    "en": "easy",
-    "es": "fácil",
-    "fr": "facile",
-    "de": "einfach",
-    "pt": "fácil"
-  },
-  "calPerServing": 350,
-  "ingredients": {
-    "en": [
-      {
-        "name": "Pork Shoulder",
-        "quantity": "3",
-        "measurementUnit": "pounds"
-      },
-      {
-        "name": "Orange",
-        "quantity": "1",
-        "measurementUnit": "large, juiced"
-      },
-      {
-        "name": "Lime",
-        "quantity": "2",
-        "measurementUnit": "juiced"
-      },
-      {
-        "name": "Garlic",
-        "quantity": "4",
-        "measurementUnit": "cloves, minced"
-      },
-      {
-        "name": "Cumin",
-        "quantity": "1",
-        "measurementUnit": "teaspoon"
-      }
-    ],
-    "es": [
-      {
-        "name": "Paletilla de Cerdo",
-        "quantity": "3",
-        "measurementUnit": "libras"
-      },
-      {
-        "name": "Naranja",
-        "quantity": "1",
-        "measurementUnit": "grande, exprimida"
-      },
-      {
-        "name": "Limón",
-        "quantity": "2",
-        "measurementUnit": "exprimido"
-      },
-      {
-        "name": "Ajo",
-        "quantity": "4",
-        "measurementUnit": "dientes, picados"
-      },
-      {
-        "name": "Comino",
-        "quantity": "1",
-        "measurementUnit": "cucharadita"
-      }
-    ],
-    "fr": [
-      {
-        "name": "Épaule de Porc",
-        "quantity": "3",
-        "measurementUnit": "livres"
-      },
-      {
-        "name": "Orange",
-        "quantity": "1",
-        "measurementUnit": "grosse, pressée"
-      },
-      {
-        "name": "Citron Vert",
-        "quantity": "2",
-        "measurementUnit": "pressés"
-      },
-      {
-        "name": "Ail",
-        "quantity": "4",
-        "measurementUnit": "gousses, hachées"
-      },
-      {
-        "name": "Cumin",
-        "quantity": "1",
-        "measurementUnit": "cuillère à café"
-      }
-    ],
-    "de": [
-      {
-        "name": "Schweineschulter",
-        "quantity": "3",
-        "measurementUnit": "Pfund"
-      },
-      {
-        "name": "Orange",
-        "quantity": "1",
-        "measurementUnit": "groß, gepresst"
-      },
-      {
-        "name": "Limette",
-        "quantity": "2",
-        "measurementUnit": "gepresst"
-      },
-      {
-        "name": "Knoblauch",
-        "quantity": "4",
-        "measurementUnit": "Zehen, gehackt"
-      },
-      {
-        "name": "Kreuzkümmel",
-        "quantity": "1",
-        "measurementUnit": "Teelöffel"
-      }
-    ],
-    "pt": [
-      {
-        "name": "Paleta de Porco",
-        "quantity": "3",
-        "measurementUnit": "libras"
-      },
-      {
-        "name": "Laranja",
-        "quantity": "1",
-        "measurementUnit": "grande, espremida"
-      },
-      {
-        "name": "Limão",
-        "quantity": "2",
-        "measurementUnit": "espremido"
-      },
-      {
-        "name": "Alho",
-        "quantity": "4",
-        "measurementUnit": "dentes, picados"
-      },
-      {
-        "name": "Cominho",
-        "quantity": "1",
-        "measurementUnit": "colher de chá"
-      }
-    ]
-  },
-  "instructions": {
-    "en": [
-      "Step 1: Place pork in the slow cooker.",
-      "Step 2: Mix orange juice, lime juice, garlic, and cumin. Pour over the pork.",
-      "Step 3: Cook on low for 6 hours.",
-      "Step 4: Shred the pork using two forks."
-    ],
-    "es": [
-      "Paso 1: Coloca el cerdo en la olla de cocción lenta.",
-      "Paso 2: Mezcla el jugo de naranja, jugo de limón, ajo y comino. Vierte sobre el cerdo.",
-      "Paso 3: Cocina a fuego lento durante 6 horas.",
-      "Paso 4: Desmenuza el cerdo con dos tenedores."
-    ],
-    "fr": [
-      "Étape 1 : Placez le porc dans la mijoteuse.",
-      "Étape 2 : Mélangez le jus d'orange, le jus de citron vert, l'ail et le cumin. Versez sur le porc.",
-      "Étape 3 : Cuire à feu doux pendant 6 heures.",
-      "Étape 4 : Effilochez le porc à l'aide de deux fourchettes."
-    ],
-    "de": [
-      "Schritt 1: Das Schweinefleisch in den Slow Cooker geben.",
-      "Schritt 2: Orangensaft, Limettensaft, Knoblauch und Kreuzkümmel vermischen. Über das Schweinefleisch gießen.",
-      "Schritt 3: 6 Stunden langsam garen.",
-      "Schritt 4: Das Fleisch mit zwei Gabeln zerkleinern."
-    ],
-    "pt": [
-      "Passo 1: Coloque o porco na panela de cozimento lento.",
-      "Passo 2: Misture o suco de laranja, suco de limão, alho e cominho. Despeje sobre o porco.",
-      "Passo 3: Cozinhe em fogo baixo por 6 horas.",
-      "Passo 4: Desfie o porco usando dois garfos."
-    ]
-  },
-  "notes": "For crispier carnitas, broil the shredded pork in the oven for a few minutes after cooking.",
-    "tags": [
-      "Comfort",
-      "Hearty",
-      "Make Ahead",
-      "Freezer Friendly",
-      "Meal Prep",
-      "Low Carb",
-      "High Protein",
-      "Gluten Free",
-      "Dairy Free",
-      "Main",
-      "Slow Cooker"
-    ]
-},
- {
-  "id": "beefstew9087",
-  "title": {
-    "en": "Slow Cooker Beef Stew",
-    "es": "Estofado de carne en olla de cocción lenta",
-    "fr": "Ragoût de bœuf à la mijoteuse",
-    "de": "Rindfleischeintopf im Slow Cooker",
-    "pt": "Ensopado de Carne na Panela Lenta"
-  },
-  "description": {
-    "en": "A hearty, comforting beef stew slowly cooked to perfection, rich in flavors and tender beef chunks.",
-    "es": "Un estofado reconfortante y abundante, cocinado lentamente para obtener una carne tierna y sabrosa.",
-    "fr": "Un ragoût copieux et réconfortant, lentement mijoté pour des morceaux de bœuf tendres et riches en saveurs.",
-    "de": "Ein herzhafter, wohltuender Rindfleischeintopf, langsam gekocht für zarte Fleischstücke und reiche Aromen.",
-    "pt": "Um ensopado reconfortante e farto, cozido lentamente para uma carne macia e cheia de sabor."
-  },
-  "image": "",
-  "servings": 6,
-  "prepTime": {
-    "number": 25,
-    "unit": "minutes"
-  },
-  "cookTime": {
-    "number": 480,
-    "unit": "minutes"
-  },
-  "totalTime": {
-    "number": 505,
-    "unit": "minutes"
-  },
-  "difficulty": {
-    "en": "easy",
-    "es": "fácil",
-    "fr": "facile",
-    "de": "einfach",
-    "pt": "fácil"
-  },
-  "calPerServing": 350,
-  "ingredients": {
-    "en": [
-      {
-        "name": "Beef stew meat",
-        "quantity": "1.2",
-        "measurementUnit": "kg"
-      },
-      {
-        "name": "Potatoes",
-        "quantity": "4",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "Carrots",
-        "quantity": "4",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "Onion",
-        "quantity": "1",
-        "measurementUnit": "large"
-      },
-      {
-        "name": "Garlic cloves",
-        "quantity": "4",
-        "measurementUnit": "cloves"
-      },
-      {
-        "name": "Beef broth",
-        "quantity": "4",
-        "measurementUnit": "cups"
-      },
-      {
-        "name": "Tomato paste",
-        "quantity": "2",
-        "measurementUnit": "tablespoons"
-      },
-      {
-        "name": "Worcestershire sauce",
-        "quantity": "2",
-        "measurementUnit": "tablespoons"
-      },
-      {
-        "name": "Bay leaves",
-        "quantity": "2",
-        "measurementUnit": "leaves"
-      },
-      {
-        "name": "Salt",
-        "quantity": "to taste",
-        "measurementUnit": ""
-      },
-      {
-        "name": "Black pepper",
-        "quantity": "to taste",
-        "measurementUnit": ""
-      }
-    ],
-    "es": [
-      {
-        "name": "Carne de estofado de res",
-        "quantity": "1.2",
-        "measurementUnit": "kg"
-      },
-      {
-        "name": "Papas",
-        "quantity": "4",
-        "measurementUnit": "grandes"
-      },
-      {
-        "name": "Zanahorias",
-        "quantity": "4",
-        "measurementUnit": "grandes"
-      },
-      {
-        "name": "Cebolla",
-        "quantity": "1",
-        "measurementUnit": "grande"
-      },
-      {
-        "name": "Dientes de ajo",
-        "quantity": "4",
-        "measurementUnit": "dientes"
-      },
-      {
-        "name": "Caldo de res",
-        "quantity": "4",
-        "measurementUnit": "tazas"
-      },
-      {
-        "name": "Puré de tomate",
-        "quantity": "2",
-        "measurementUnit": "cucharadas"
-      },
-      {
-        "name": "Salsa Worcestershire",
-        "quantity": "2",
-        "measurementUnit": "cucharadas"
-      },
-      {
-        "name": "Hojas de laurel",
-        "quantity": "2",
-        "measurementUnit": "hojas"
-      },
-      {
-        "name": "Sal",
-        "quantity": "al gusto",
-        "measurementUnit": ""
-      },
-      {
-        "name": "Pimienta negra",
-        "quantity": "al gusto",
-        "measurementUnit": ""
-      }
-    ],
-    "fr": [
-      {
-        "name": "Viande à ragoût de bœuf",
-        "quantity": "1.2",
-        "measurementUnit": "kg"
-      },
-      {
-        "name": "Pommes de terre",
-        "quantity": "4",
-        "measurementUnit": "grosses"
-      },
-      {
-        "name": "Carottes",
-        "quantity": "4",
-        "measurementUnit": "grosses"
-      },
-      {
-        "name": "Oignon",
-        "quantity": "1",
-        "measurementUnit": "gros"
-      },
-      {
-        "name": "Gousses d'ail",
-        "quantity": "4",
-        "measurementUnit": "gousses"
-      },
-      {
-        "name": "Bouillon de bœuf",
-        "quantity": "4",
-        "measurementUnit": "tasses"
-      },
-      {
-        "name": "Concentré de tomate",
-        "quantity": "2",
-        "measurementUnit": "cuillères à soupe"
-      },
-      {
-        "name": "Sauce Worcestershire",
-        "quantity": "2",
-        "measurementUnit": "cuillères à soupe"
-      },
-      {
-        "name": "Feuilles de laurier",
-        "quantity": "2",
-        "measurementUnit": "feuilles"
-      },
-      {
-        "name": "Sel",
-        "quantity": "selon le goût",
-        "measurementUnit": ""
-      },
-      {
-        "name": "Poivre noir",
-        "quantity": "selon le goût",
-        "measurementUnit": ""
-      }
-    ],
-    "de": [
-      {
-        "name": "Rindfleisch für Eintopf",
-        "quantity": "1,2",
-        "measurementUnit": "kg"
-      },
-      {
-        "name": "Kartoffeln",
-        "quantity": "4",
-        "measurementUnit": "groß"
-      },
-      {
-        "name": "Möhren",
-        "quantity": "4",
-        "measurementUnit": "groß"
-      },
-      {
-        "name": "Zwiebel",
-        "quantity": "1",
-        "measurementUnit": "groß"
-      },
-      {
-        "name": "Knoblauchzehen",
-        "quantity": "4",
-        "measurementUnit": "Zehen"
-      },
-      {
-        "name": "Rinderbrühe",
-        "quantity": "4",
-        "measurementUnit": "Tassen"
-      },
-      {
-        "name": "Tomatenmark",
-        "quantity": "2",
-        "measurementUnit": "Esslöffel"
-      },
-      {
-        "name": "Worcestershire Soße",
-        "quantity": "2",
-        "measurementUnit": "Esslöffel"
-      },
-      {
-        "name": "Lorbeerblätter",
-        "quantity": "2",
-        "measurementUnit": "Blätter"
-      },
-      {
-        "name": "Salz",
-        "quantity": "nach Geschmack",
-        "measurementUnit": ""
-      },
-      {
-        "name": "Schwarzer Pfeffer",
-        "quantity": "nach Geschmack",
-        "measurementUnit": ""
-      }
-    ],
-    "pt": [
-      {
-        "name": "Carne para ensopado",
-        "quantity": "1.2",
-        "measurementUnit": "kg"
-      },
-      {
-        "name": "Batatas",
-        "quantity": "4",
-        "measurementUnit": "grandes"
-      },
-      {
-        "name": "Cenouras",
-        "quantity": "4",
-        "measurementUnit": "grandes"
-      },
-      {
-        "name": "Cebola",
-        "quantity": "1",
-        "measurementUnit": "grande"
-      },
-      {
-        "name": "Dentes de alho",
-        "quantity": "4",
-        "measurementUnit": "dentes"
-      },
-      {
-        "name": "Caldo de carne",
-        "quantity": "4",
-        "measurementUnit": "xícaras"
-      },
-      {
-        "name": "Extrato de tomate",
-        "quantity": "2",
-        "measurementUnit": "colheres de sopa"
-      },
-      {
-        "name": "Molho Worcestershire",
-        "quantity": "2",
-        "measurementUnit": "colheres de sopa"
-      },
-      {
-        "name": "Folhas de louro",
-        "quantity": "2",
-        "measurementUnit": "folhas"
-      },
-      {
-        "name": "Sal",
-        "quantity": "a gosto",
-        "measurementUnit": ""
-      },
-      {
-        "name": "Pimenta do reino",
-        "quantity": "a gosto",
-        "measurementUnit": ""
-      }
-    ]
-  },
-  "instructions": {
-    "en": [
-      "Step 1: Chop the vegetables and garlic.",
-      "Step 2: Place beef, vegetables, garlic, bay leaves, beef broth, tomato paste, Worcestershire sauce, salt, and pepper in the slow cooker.",
-      "Step 3: Cook on low for 8 hours or on high for 4 hours.",
-      "Step 4: Serve hot and enjoy!"
-    ],
-    "es": [
-      "Paso 1: Corta las verduras y el ajo.",
-      "Paso 2: Coloca la carne, las verduras, el ajo, hojas de laurel, caldo de res, puré de tomate, salsa Worcestershire, sal y pimienta en la olla de cocción lenta.",
-      "Paso 3: Cocina a fuego lento durante 8 horas o a fuego alto durante 4 horas.",
-      "Paso 4: ¡Sirve caliente y disfruta!"
-    ],
-    "fr": [
-      "Étape 1 : Coupez les légumes et l'ail.",
-      "Étape 2 : Placez le bœuf, les légumes, l'ail, les feuilles de laurier, le bouillon de bœuf, la pâte de tomate, la sauce Worcestershire, le sel et le poivre dans la mijoteuse.",
-      "Étape 3 : Cuire à feu doux pendant 8 heures ou à feu vif pendant 4 heures.",
-      "Étape 4 : Servez chaud et savourez !"
-    ],
-    "de": [
-      "Schritt 1: Schneide das Gemüse und den Knoblauch.",
-      "Schritt 2: Gib das Rindfleisch, Gemüse, Knoblauch, Lorbeerblätter, Rinderbrühe, Tomatenmark, Worcestershire Soße, Salz und Pfeffer in den Slow Cooker.",
-      "Schritt 3: Koche es auf niedriger Stufe für 8 Stunden oder auf hoher Stufe für 4 Stunden.",
-      "Schritt 4: Heiß servieren und genießen!"
-    ],
-    "pt": [
-      "Passo 1: Pique os legumes e o alho.",
-      "Passo 2: Coloque a carne, os legumes, alho, folhas de louro, caldo de carne, extrato de tomate, molho Worcestershire, sal e pimenta na panela lenta.",
-      "Passo 3: Cozinhe em fogo baixo por 8 horas ou em fogo alto por 4 horas.",
-      "Passo 4: Sirva quente e aproveite!"
-    ]
-  },
-  "notes": "For a thicker stew, mix 2 tablespoons of flour with cold water and stir into the stew 30 minutes before it's done.",
-  "tags": [
-    "Cheap",
-    "Healthy",
-    "Easy",
-    "Slow Cooker",
-    "Comfort",
-    "Hearty",
-    "Dinner",
-    "One Pot"
-  ]
-}
+    {
+        "id": "carnitas4321",
+        "title": {
+            "en": "Slow Cooker Carnitas",
+            "es": "Carnitas de Cocción Lenta",
+            "fr": "Carnitas à la mijoteuse",
+            "de": "Slow Cooker Carnitas",
+            "pt": "Carnitas de Forno Lento"
+        },
+        "description": {
+            "en": "Delicious slow-cooked pork, perfect for tacos or burritos.",
+            "es": "Delicioso cerdo cocinado lentamente, perfecto para tacos o burritos.",
+            "fr": "Délicieux porc cuit lentement, parfait pour les tacos ou les burritos.",
+            "de": "Köstliches langsam gekochtes Schweinefleisch, perfekt für Tacos oder Burritos.",
+            "pt": "Delicioso porco cozido lentamente, perfeito para tacos ou burritos."
+        },
+        "image": "",
+        "servings": 6,
+        "prepTime": {
+            "number": 15,
+            "unit": "minutes"
+        },
+        "cookTime": {
+            "number": 6,
+            "unit": "hours"
+        },
+        "difficulty": {
+            "en": "easy",
+            "es": "fácil",
+            "fr": "facile",
+            "de": "einfach",
+            "pt": "fácil"
+        },
+        "calPerServing": 350,
+        "ingredients": {
+            "en": [
+                {
+                    "name": "Pork Shoulder",
+                    "quantity": "3",
+                    "measurementUnit": "pounds"
+                },
+                {
+                    "name": "Orange",
+                    "quantity": "1",
+                    "measurementUnit": "large, juiced"
+                },
+                {
+                    "name": "Lime",
+                    "quantity": "2",
+                    "measurementUnit": "juiced"
+                },
+                {
+                    "name": "Garlic",
+                    "quantity": "4",
+                    "measurementUnit": "cloves, minced"
+                },
+                {
+                    "name": "Cumin",
+                    "quantity": "1",
+                    "measurementUnit": "teaspoon"
+                }
+            ],
+            "es": [
+                {
+                    "name": "Paletilla de Cerdo",
+                    "quantity": "3",
+                    "measurementUnit": "libras"
+                },
+                {
+                    "name": "Naranja",
+                    "quantity": "1",
+                    "measurementUnit": "grande, exprimida"
+                },
+                {
+                    "name": "Limón",
+                    "quantity": "2",
+                    "measurementUnit": "exprimido"
+                },
+                {
+                    "name": "Ajo",
+                    "quantity": "4",
+                    "measurementUnit": "dientes, picados"
+                },
+                {
+                    "name": "Comino",
+                    "quantity": "1",
+                    "measurementUnit": "cucharadita"
+                }
+            ],
+            "fr": [
+                {
+                    "name": "Épaule de Porc",
+                    "quantity": "3",
+                    "measurementUnit": "livres"
+                },
+                {
+                    "name": "Orange",
+                    "quantity": "1",
+                    "measurementUnit": "grosse, pressée"
+                },
+                {
+                    "name": "Citron Vert",
+                    "quantity": "2",
+                    "measurementUnit": "pressés"
+                },
+                {
+                    "name": "Ail",
+                    "quantity": "4",
+                    "measurementUnit": "gousses, hachées"
+                },
+                {
+                    "name": "Cumin",
+                    "quantity": "1",
+                    "measurementUnit": "cuillère à café"
+                }
+            ],
+            "de": [
+                {
+                    "name": "Schweineschulter",
+                    "quantity": "3",
+                    "measurementUnit": "Pfund"
+                },
+                {
+                    "name": "Orange",
+                    "quantity": "1",
+                    "measurementUnit": "groß, gepresst"
+                },
+                {
+                    "name": "Limette",
+                    "quantity": "2",
+                    "measurementUnit": "gepresst"
+                },
+                {
+                    "name": "Knoblauch",
+                    "quantity": "4",
+                    "measurementUnit": "Zehen, gehackt"
+                },
+                {
+                    "name": "Kreuzkümmel",
+                    "quantity": "1",
+                    "measurementUnit": "Teelöffel"
+                }
+            ],
+            "pt": [
+                {
+                    "name": "Paleta de Porco",
+                    "quantity": "3",
+                    "measurementUnit": "libras"
+                },
+                {
+                    "name": "Laranja",
+                    "quantity": "1",
+                    "measurementUnit": "grande, espremida"
+                },
+                {
+                    "name": "Limão",
+                    "quantity": "2",
+                    "measurementUnit": "espremido"
+                },
+                {
+                    "name": "Alho",
+                    "quantity": "4",
+                    "measurementUnit": "dentes, picados"
+                },
+                {
+                    "name": "Cominho",
+                    "quantity": "1",
+                    "measurementUnit": "colher de chá"
+                }
+            ]
+        },
+        "instructions": {
+            "en": [
+                "Step 1: Place pork in the slow cooker.",
+                "Step 2: Mix orange juice, lime juice, garlic, and cumin. Pour over the pork.",
+                "Step 3: Cook on low for 6 hours.",
+                "Step 4: Shred the pork using two forks."
+            ],
+            "es": [
+                "Paso 1: Coloca el cerdo en la olla de cocción lenta.",
+                "Paso 2: Mezcla el jugo de naranja, jugo de limón, ajo y comino. Vierte sobre el cerdo.",
+                "Paso 3: Cocina a fuego lento durante 6 horas.",
+                "Paso 4: Desmenuza el cerdo con dos tenedores."
+            ],
+            "fr": [
+                "Étape 1 : Placez le porc dans la mijoteuse.",
+                "Étape 2 : Mélangez le jus d'orange, le jus de citron vert, l'ail et le cumin. Versez sur le porc.",
+                "Étape 3 : Cuire à feu doux pendant 6 heures.",
+                "Étape 4 : Effilochez le porc à l'aide de deux fourchettes."
+            ],
+            "de": [
+                "Schritt 1: Das Schweinefleisch in den Slow Cooker geben.",
+                "Schritt 2: Orangensaft, Limettensaft, Knoblauch und Kreuzkümmel vermischen. Über das Schweinefleisch gießen.",
+                "Schritt 3: 6 Stunden langsam garen.",
+                "Schritt 4: Das Fleisch mit zwei Gabeln zerkleinern."
+            ],
+            "pt": [
+                "Passo 1: Coloque o porco na panela de cozimento lento.",
+                "Passo 2: Misture o suco de laranja, suco de limão, alho e cominho. Despeje sobre o porco.",
+                "Passo 3: Cozinhe em fogo baixo por 6 horas.",
+                "Passo 4: Desfie o porco usando dois garfos."
+            ]
+        },
+        "notes": "For crispier carnitas, broil the shredded pork in the oven for a few minutes after cooking.",
+        "tags": [
+            "Comfort",
+            "Hearty",
+            "Make Ahead",
+            "Freezer Friendly",
+            "Meal Prep",
+            "Low Carb",
+            "High Protein",
+            "Gluten Free",
+            "Dairy Free",
+            "Main",
+            "Slow Cooker"
+        ]
+    },
+    {
+        "id": "beefstew9087",
+        "title": {
+            "en": "Slow Cooker Beef Stew",
+            "es": "Estofado de carne en olla de cocción lenta",
+            "fr": "Ragoût de bœuf à la mijoteuse",
+            "de": "Rindfleischeintopf im Slow Cooker",
+            "pt": "Ensopado de Carne na Panela Lenta"
+        },
+        "description": {
+            "en": "A hearty, comforting beef stew slowly cooked to perfection, rich in flavors and tender beef chunks.",
+            "es": "Un estofado reconfortante y abundante, cocinado lentamente para obtener una carne tierna y sabrosa.",
+            "fr": "Un ragoût copieux et réconfortant, lentement mijoté pour des morceaux de bœuf tendres et riches en saveurs.",
+            "de": "Ein herzhafter, wohltuender Rindfleischeintopf, langsam gekocht für zarte Fleischstücke und reiche Aromen.",
+            "pt": "Um ensopado reconfortante e farto, cozido lentamente para uma carne macia e cheia de sabor."
+        },
+        "image": "",
+        "servings": 6,
+        "prepTime": {
+            "number": 25,
+            "unit": "minutes"
+        },
+        "cookTime": {
+            "number": 8,
+            "unit": "hours"
+        },
+        "difficulty": {
+            "en": "easy",
+            "es": "fácil",
+            "fr": "facile",
+            "de": "einfach",
+            "pt": "fácil"
+        },
+        "calPerServing": 350,
+        "ingredients": {
+            "en": [
+                {
+                    "name": "Beef stew meat",
+                    "quantity": "1.2",
+                    "measurementUnit": "kg"
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": "4",
+                    "measurementUnit": "large"
+                },
+                {
+                    "name": "Carrots",
+                    "quantity": "4",
+                    "measurementUnit": "large"
+                },
+                {
+                    "name": "Onion",
+                    "quantity": "1",
+                    "measurementUnit": "large"
+                },
+                {
+                    "name": "Garlic cloves",
+                    "quantity": "4",
+                    "measurementUnit": "cloves"
+                },
+                {
+                    "name": "Beef broth",
+                    "quantity": "4",
+                    "measurementUnit": "cups"
+                },
+                {
+                    "name": "Tomato paste",
+                    "quantity": "2",
+                    "measurementUnit": "tablespoons"
+                },
+                {
+                    "name": "Worcestershire sauce",
+                    "quantity": "2",
+                    "measurementUnit": "tablespoons"
+                },
+                {
+                    "name": "Bay leaves",
+                    "quantity": "2",
+                    "measurementUnit": "leaves"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste",
+                    "measurementUnit": ""
+                },
+                {
+                    "name": "Black pepper",
+                    "quantity": "to taste",
+                    "measurementUnit": ""
+                }
+            ],
+            "es": [
+                {
+                    "name": "Carne de estofado de res",
+                    "quantity": "1.2",
+                    "measurementUnit": "kg"
+                },
+                {
+                    "name": "Papas",
+                    "quantity": "4",
+                    "measurementUnit": "grandes"
+                },
+                {
+                    "name": "Zanahorias",
+                    "quantity": "4",
+                    "measurementUnit": "grandes"
+                },
+                {
+                    "name": "Cebolla",
+                    "quantity": "1",
+                    "measurementUnit": "grande"
+                },
+                {
+                    "name": "Dientes de ajo",
+                    "quantity": "4",
+                    "measurementUnit": "dientes"
+                },
+                {
+                    "name": "Caldo de res",
+                    "quantity": "4",
+                    "measurementUnit": "tazas"
+                },
+                {
+                    "name": "Puré de tomate",
+                    "quantity": "2",
+                    "measurementUnit": "cucharadas"
+                },
+                {
+                    "name": "Salsa Worcestershire",
+                    "quantity": "2",
+                    "measurementUnit": "cucharadas"
+                },
+                {
+                    "name": "Hojas de laurel",
+                    "quantity": "2",
+                    "measurementUnit": "hojas"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "al gusto",
+                    "measurementUnit": ""
+                },
+                {
+                    "name": "Pimienta negra",
+                    "quantity": "al gusto",
+                    "measurementUnit": ""
+                }
+            ],
+            "fr": [
+                {
+                    "name": "Viande à ragoût de bœuf",
+                    "quantity": "1.2",
+                    "measurementUnit": "kg"
+                },
+                {
+                    "name": "Pommes de terre",
+                    "quantity": "4",
+                    "measurementUnit": "grosses"
+                },
+                {
+                    "name": "Carottes",
+                    "quantity": "4",
+                    "measurementUnit": "grosses"
+                },
+                {
+                    "name": "Oignon",
+                    "quantity": "1",
+                    "measurementUnit": "gros"
+                },
+                {
+                    "name": "Gousses d'ail",
+                    "quantity": "4",
+                    "measurementUnit": "gousses"
+                },
+                {
+                    "name": "Bouillon de bœuf",
+                    "quantity": "4",
+                    "measurementUnit": "tasses"
+                },
+                {
+                    "name": "Concentré de tomate",
+                    "quantity": "2",
+                    "measurementUnit": "cuillères à soupe"
+                },
+                {
+                    "name": "Sauce Worcestershire",
+                    "quantity": "2",
+                    "measurementUnit": "cuillères à soupe"
+                },
+                {
+                    "name": "Feuilles de laurier",
+                    "quantity": "2",
+                    "measurementUnit": "feuilles"
+                },
+                {
+                    "name": "Sel",
+                    "quantity": "selon le goût",
+                    "measurementUnit": ""
+                },
+                {
+                    "name": "Poivre noir",
+                    "quantity": "selon le goût",
+                    "measurementUnit": ""
+                }
+            ],
+            "de": [
+                {
+                    "name": "Rindfleisch für Eintopf",
+                    "quantity": "1,2",
+                    "measurementUnit": "kg"
+                },
+                {
+                    "name": "Kartoffeln",
+                    "quantity": "4",
+                    "measurementUnit": "groß"
+                },
+                {
+                    "name": "Möhren",
+                    "quantity": "4",
+                    "measurementUnit": "groß"
+                },
+                {
+                    "name": "Zwiebel",
+                    "quantity": "1",
+                    "measurementUnit": "groß"
+                },
+                {
+                    "name": "Knoblauchzehen",
+                    "quantity": "4",
+                    "measurementUnit": "Zehen"
+                },
+                {
+                    "name": "Rinderbrühe",
+                    "quantity": "4",
+                    "measurementUnit": "Tassen"
+                },
+                {
+                    "name": "Tomatenmark",
+                    "quantity": "2",
+                    "measurementUnit": "Esslöffel"
+                },
+                {
+                    "name": "Worcestershire Soße",
+                    "quantity": "2",
+                    "measurementUnit": "Esslöffel"
+                },
+                {
+                    "name": "Lorbeerblätter",
+                    "quantity": "2",
+                    "measurementUnit": "Blätter"
+                },
+                {
+                    "name": "Salz",
+                    "quantity": "nach Geschmack",
+                    "measurementUnit": ""
+                },
+                {
+                    "name": "Schwarzer Pfeffer",
+                    "quantity": "nach Geschmack",
+                    "measurementUnit": ""
+                }
+            ],
+            "pt": [
+                {
+                    "name": "Carne para ensopado",
+                    "quantity": "1.2",
+                    "measurementUnit": "kg"
+                },
+                {
+                    "name": "Batatas",
+                    "quantity": "4",
+                    "measurementUnit": "grandes"
+                },
+                {
+                    "name": "Cenouras",
+                    "quantity": "4",
+                    "measurementUnit": "grandes"
+                },
+                {
+                    "name": "Cebola",
+                    "quantity": "1",
+                    "measurementUnit": "grande"
+                },
+                {
+                    "name": "Dentes de alho",
+                    "quantity": "4",
+                    "measurementUnit": "dentes"
+                },
+                {
+                    "name": "Caldo de carne",
+                    "quantity": "4",
+                    "measurementUnit": "xícaras"
+                },
+                {
+                    "name": "Extrato de tomate",
+                    "quantity": "2",
+                    "measurementUnit": "colheres de sopa"
+                },
+                {
+                    "name": "Molho Worcestershire",
+                    "quantity": "2",
+                    "measurementUnit": "colheres de sopa"
+                },
+                {
+                    "name": "Folhas de louro",
+                    "quantity": "2",
+                    "measurementUnit": "folhas"
+                },
+                {
+                    "name": "Sal",
+                    "quantity": "a gosto",
+                    "measurementUnit": ""
+                },
+                {
+                    "name": "Pimenta do reino",
+                    "quantity": "a gosto",
+                    "measurementUnit": ""
+                }
+            ]
+        },
+        "instructions": {
+            "en": [
+                "Step 1: Chop the vegetables and garlic.",
+                "Step 2: Place beef, vegetables, garlic, bay leaves, beef broth, tomato paste, Worcestershire sauce, salt, and pepper in the slow cooker.",
+                "Step 3: Cook on low for 8 hours or on high for 4 hours.",
+                "Step 4: Serve hot and enjoy!"
+            ],
+            "es": [
+                "Paso 1: Corta las verduras y el ajo.",
+                "Paso 2: Coloca la carne, las verduras, el ajo, hojas de laurel, caldo de res, puré de tomate, salsa Worcestershire, sal y pimienta en la olla de cocción lenta.",
+                "Paso 3: Cocina a fuego lento durante 8 horas o a fuego alto durante 4 horas.",
+                "Paso 4: ¡Sirve caliente y disfruta!"
+            ],
+            "fr": [
+                "Étape 1 : Coupez les légumes et l'ail.",
+                "Étape 2 : Placez le bœuf, les légumes, l'ail, les feuilles de laurier, le bouillon de bœuf, la pâte de tomate, la sauce Worcestershire, le sel et le poivre dans la mijoteuse.",
+                "Étape 3 : Cuire à feu doux pendant 8 heures ou à feu vif pendant 4 heures.",
+                "Étape 4 : Servez chaud et savourez !"
+            ],
+            "de": [
+                "Schritt 1: Schneide das Gemüse und den Knoblauch.",
+                "Schritt 2: Gib das Rindfleisch, Gemüse, Knoblauch, Lorbeerblätter, Rinderbrühe, Tomatenmark, Worcestershire Soße, Salz und Pfeffer in den Slow Cooker.",
+                "Schritt 3: Koche es auf niedriger Stufe für 8 Stunden oder auf hoher Stufe für 4 Stunden.",
+                "Schritt 4: Heiß servieren und genießen!"
+            ],
+            "pt": [
+                "Passo 1: Pique os legumes e o alho.",
+                "Passo 2: Coloque a carne, os legumes, alho, folhas de louro, caldo de carne, extrato de tomate, molho Worcestershire, sal e pimenta na panela lenta.",
+                "Passo 3: Cozinhe em fogo baixo por 8 horas ou em fogo alto por 4 horas.",
+                "Passo 4: Sirva quente e aproveite!"
+            ]
+        },
+        "notes": "For a thicker stew, mix 2 tablespoons of flour with cold water and stir into the stew 30 minutes before it's done.",
+        "tags": [
+            "Cheap",
+            "Healthy",
+            "Easy",
+            "Slow Cooker",
+            "Comfort",
+            "Hearty",
+            "Dinner",
+            "One Pot"
+        ]
+    }
 ]
