@@ -581,5 +581,332 @@
             "Dinner",
             "One Pot"
         ]
-    }
+    },
+    {
+  "id": "onionsoup7854",
+  "title": {
+    "en": "Slow Cooker Onion Soup",
+    "es": "Sopa de cebolla en olla lenta",
+    "fr": "Soupe à l'oignon à la mijoteuse",
+    "de": "Zwiebelsuppe aus dem Slow Cooker",
+    "pt": "Sopa de Cebola na Panela Lenta"
+  },
+  "description": {
+    "en": "A comforting and flavorful onion soup slow-cooked to perfection.",
+    "es": "Una reconfortante y sabrosa sopa de cebolla cocida a fuego lento a la perfección.",
+    "fr": "Une soupe à l'oignon réconfortante et savoureuse cuite lentement à la perfection.",
+    "de": "Eine tröstliche und geschmackvolle Zwiebelsuppe, langsam gegart bis zur Perfektion.",
+    "pt": "Uma sopa reconfortante e saborosa de cebola cozida lentamente à perfeição."
+  },
+  "image": "",
+  "servings": 4,
+  "prepTime": {
+    "number": 20,
+    "unit": "minutes"
+  },
+  "cookTime": {
+    "number": 4,
+    "unit": "hours"
+  },
+  "difficulty": {
+    "en": "medium",
+    "es": "medio",
+    "fr": "moyen",
+    "de": "mittel",
+    "pt": "médio"
+  },
+  "calPerServing": 300,
+  "ingredients": {
+    "en": [
+      {
+        "name": "Onions",
+        "quantity": "6",
+        "measurementUnit": "large"
+      },
+      {
+        "name": "Butter",
+        "quantity": "3",
+        "measurementUnit": "tablespoons"
+      },
+      {
+        "name": "Beef or Vegetable Broth",
+        "quantity": "6",
+        "measurementUnit": "cups"
+      },
+      {
+        "name": "Dry White Wine",
+        "quantity": "1/2",
+        "measurementUnit": "cup"
+      },
+      {
+        "name": "Bay Leaf",
+        "quantity": "2",
+        "measurementUnit": "leaves"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": "to taste",
+        "measurementUnit": ""
+      },
+      {
+        "name": "French Baguette",
+        "quantity": "4",
+        "measurementUnit": "slices"
+      },
+      {
+        "name": "Gruyère Cheese",
+        "quantity": "1",
+        "measurementUnit": "cup"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cebollas",
+        "quantity": "6",
+        "measurementUnit": "grandes"
+      },
+      {
+        "name": "Mantequilla",
+        "quantity": "3",
+        "measurementUnit": "cucharadas"
+      },
+      {
+        "name": "Caldo de res o vegetales",
+        "quantity": "6",
+        "measurementUnit": "tazas"
+      },
+      {
+        "name": "Vino blanco seco",
+        "quantity": "1/2",
+        "measurementUnit": "taza"
+      },
+      {
+        "name": "Hoja de laurel",
+        "quantity": "2",
+        "measurementUnit": "hojas"
+      },
+      {
+        "name": "Sal",
+        "quantity": "al gusto",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Pimienta negra",
+        "quantity": "al gusto",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Baguette francés",
+        "quantity": "4",
+        "measurementUnit": "rebanadas"
+      },
+      {
+        "name": "Queso Gruyère",
+        "quantity": "1",
+        "measurementUnit": "taza"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Oignons",
+        "quantity": "6",
+        "measurementUnit": "gros"
+      },
+      {
+        "name": "Beurre",
+        "quantity": "3",
+        "measurementUnit": "cuillères à soupe"
+      },
+      {
+        "name": "Bouillon de bœuf ou de légumes",
+        "quantity": "6",
+        "measurementUnit": "tasses"
+      },
+      {
+        "name": "Vin blanc sec",
+        "quantity": "1/2",
+        "measurementUnit": "tasse"
+      },
+      {
+        "name": "Feuille de laurier",
+        "quantity": "2",
+        "measurementUnit": "feuilles"
+      },
+      {
+        "name": "Sel",
+        "quantity": "selon le goût",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Poivre noir",
+        "quantity": "selon le goût",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Baguette française",
+        "quantity": "4",
+        "measurementUnit": "tranches"
+      },
+      {
+        "name": "Fromage Gruyère",
+        "quantity": "1",
+        "measurementUnit": "tasse"
+      }
+    ],
+    "de": [
+      {
+        "name": "Zwiebeln",
+        "quantity": "6",
+        "measurementUnit": "groß"
+      },
+      {
+        "name": "Butter",
+        "quantity": "3",
+        "measurementUnit": "Esslöffel"
+      },
+      {
+        "name": "Rinder- oder Gemüsebrühe",
+        "quantity": "6",
+        "measurementUnit": "Tassen"
+      },
+      {
+        "name": "Trockener Weißwein",
+        "quantity": "1/2",
+        "measurementUnit": "Tasse"
+      },
+      {
+        "name": "Lorbeerblatt",
+        "quantity": "2",
+        "measurementUnit": "Blätter"
+      },
+      {
+        "name": "Salz",
+        "quantity": "nach Geschmack",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Schwarzer Pfeffer",
+        "quantity": "nach Geschmack",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Französisches Baguette",
+        "quantity": "4",
+        "measurementUnit": "Scheiben"
+      },
+      {
+        "name": "Gruyère Käse",
+        "quantity": "1",
+        "measurementUnit": "Tasse"
+      }
+    ],
+    "pt": [
+      {
+        "name": "Cebolas",
+        "quantity": "6",
+        "measurementUnit": "grandes"
+      },
+      {
+        "name": "Manteiga",
+        "quantity": "3",
+        "measurementUnit": "colheres de sopa"
+      },
+      {
+        "name": "Caldo de carne ou vegetais",
+        "quantity": "6",
+        "measurementUnit": "xícaras"
+      },
+      {
+        "name": "Vinho branco seco",
+        "quantity": "1/2",
+        "measurementUnit": "xícara"
+      },
+      {
+        "name": "Folha de louro",
+        "quantity": "2",
+        "measurementUnit": "folhas"
+      },
+      {
+        "name": "Sal",
+        "quantity": "a gosto",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Pimenta preta",
+        "quantity": "a gosto",
+        "measurementUnit": ""
+      },
+      {
+        "name": "Baguete francesa",
+        "quantity": "4",
+        "measurementUnit": "fatias"
+      },
+      {
+        "name": "Queijo Gruyère",
+        "quantity": "1",
+        "measurementUnit": "xícara"
+      }
+    ]
+  },
+  "instructions": {
+    "en": [
+      "Step 1: Slice the onions thinly.",
+      "Step 2: Place onions, butter, broth, wine, bay leaves, salt, and pepper in the slow cooker.",
+      "Step 3: Cook on low for 6-8 hours or high for 4 hours.",
+      "Step 4: Toast baguette slices and sprinkle Gruyère on top.",
+      "Step 5: Ladle soup into oven-safe bowls, place the cheese-covered baguette on top of each bowl.",
+      "Step 6: Broil until the cheese is bubbly and golden.",
+      "Step 7: Serve hot and enjoy!"
+    ],
+    "es": [
+      "Paso 1: Corta las cebollas en rodajas finas.",
+      "Paso 2: Coloca las cebollas, la mantequilla, el caldo, el vino, las hojas de laurel, sal y pimienta en la olla lenta.",
+      "Paso 3: Cocina a fuego lento durante 6-8 horas o a fuego alto durante 4 horas.",
+      "Paso 4: Tuesta las rebanadas de baguette y espolvorea Gruyère encima.",
+      "Paso 5: Sirve la sopa en platos aptos para horno, coloca la baguette cubierta de queso encima de cada plato.",
+      "Paso 6: Gratina hasta que el queso esté burbujeante y dorado.",
+      "Paso 7: ¡Sirve caliente y disfruta!"
+    ],
+    "fr": [
+      "Étape 1 : Émincez les oignons finement.",
+      "Étape 2 : Placez les oignons, le beurre, le bouillon, le vin, les feuilles de laurier, le sel et le poivre dans la mijoteuse.",
+      "Étape 3 : Faites cuire à feu doux pendant 6 à 8 heures ou à feu vif pendant 4 heures.",
+      "Étape 4 : Faites griller les tranches de baguette et saupoudrez de Gruyère sur le dessus.",
+      "Étape 5 : Versez la soupe dans des bols allant au four, placez la baguette recouverte de fromage sur le dessus de chaque bol.",
+      "Étape 6 : Faites gratiner jusqu'à ce que le fromage soit bouillonnant et doré.",
+      "Étape 7 : Servez chaud et régalez-vous !"
+    ],
+    "de": [
+      "Schritt 1: Die Zwiebeln in dünne Scheiben schneiden.",
+      "Schritt 2: Zwiebeln, Butter, Brühe, Wein, Lorbeerblätter, Salz und Pfeffer in den Slow Cooker geben.",
+      "Schritt 3: 6-8 Stunden auf niedriger Stufe oder 4 Stunden auf hoher Stufe kochen.",
+      "Schritt 4: Baguettescheiben rösten und Gruyère darauf streuen.",
+      "Schritt 5: Suppe in ofenfeste Schalen schöpfen, die mit Käse bedeckte Baguettescheibe auf jede Schüssel legen.",
+      "Schritt 6: Unter dem Grill überbacken, bis der Käse Blasen wirft und goldbraun ist.",
+      "Schritt 7: Heiß servieren und genießen!"
+    ],
+    "pt": [
+      "Passo 1: Corte as cebolas em fatias finas.",
+      "Passo 2: Coloque as cebolas, a manteiga, o caldo, o vinho, as folhas de louro, sal e pimenta na panela lenta.",
+      "Passo 3: Cozinhe em fogo baixo por 6-8 horas ou em fogo alto por 4 horas.",
+      "Passo 4: Torre as fatias de baguete e polvilhe Gruyère por cima.",
+      "Passo 5: Coloque a sopa em tigelas que possam ir ao forno, coloque a fatia de baguete coberta com queijo em cima de cada tigela.",
+      "Passo 6: Doure até que o queijo esteja borbulhante e dourado.",
+      "Passo 7: Sirva quente e aproveite!"
+    ]
+  },
+  "notes": "For a vegetarian option, use vegetable broth instead of beef broth.",
+  "tags": [
+    "Comfort",
+    "Vegetarian",
+    "Gluten Free",
+    "Dinner",
+    "Slow Cooker"
+  ]
+}
 ]
